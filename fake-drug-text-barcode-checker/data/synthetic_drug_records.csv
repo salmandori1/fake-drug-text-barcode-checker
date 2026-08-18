@@ -1,0 +1,1201 @@
+drug_name,nafdac_number,manufacturer,batch_number,barcode,label,note
+DEMO Paracetamol 500mg,A11-1847,Example Laboratories Ltd,B68910,000000000000,suspicious,Synthetic demonstration record; injected issue: bad_barcode.
+DEMO Zinc 20mg,04-5053,Example Laboratories Ltd,B78501,8074578747491,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Amoxcillin 500mg,A4-44897,Sample Remedies Ltd,B26429,6794786080725,suspicious,Synthetic demonstration record; injected issue: odd_text.
+DEMO Amoxicillin 500mg,A4-17357,Demo Pharma Nigeria Ltd,B59912,999999999999999,suspicious,Synthetic demonstration record; injected issue: bad_barcode.
+DEMO Amoxcillin 500mg,04-2751,Sample Remedies Ltd,B16112,9038090091898,suspicious,Synthetic demonstration record; injected issue: odd_text.
+DEMO @@@ 500mg,04-4299,Sample Remedies Ltd,B13942,2388605428607,suspicious,Synthetic demonstration record; injected issue: odd_text.
+DEMO Vitamin C 100mg,A4-46830,Example Healthcare Ltd,B91497,5226002301481,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO @@@ 500mg,A4-16907,Example Laboratories Ltd,B52812,3042184141457,suspicious,Synthetic demonstration record; injected issue: odd_text.
+DEMO Metronidazole 400mg,04-4486,Example Laboratories Ltd,B18750,999999999999999,suspicious,Synthetic demonstration record; injected issue: bad_barcode.
+DEMO Artemether 20mg,04-1066,Example Healthcare Ltd,B71423,2257772352483,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Ibuprofen 200mg,A4-46432,Example Laboratories Ltd,B-XYZ,7346488407636,suspicious,Synthetic demonstration record; injected issue: bad_batch.
+DEMO Cetirizine 10mg,A4-85652,Demo Pharma Nigeria Ltd,B-XYZ,2030770661823,suspicious,Synthetic demonstration record; injected issue: bad_batch.
+DEMO Paracetamol 500mg,A4-79695,Example Laboratories Ltd,B61713,5982214605921,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Artemether 20mg,A11-4676,Demo Life Sciences Ltd,B12773,4930456503090,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Zinc 20mg,A11-9257,Sample Health Nigeria Ltd,B13122,1524724675201,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Amoxcillin 500mg,A4-41509,Sample Remedies Ltd,B69571,6013289371070,suspicious,Synthetic demonstration record; injected issue: odd_text.
+DEMO Vitamin C 100mg,A11-7943,Example Laboratories Ltd,B38909,1204408658204,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Metronidazole 400mg,04-2370,Example Laboratories Ltd,B51568,2451446011302,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Vitamin C 100mg,A4-68685,Example Laboratories Ltd,B54605,4429191034867,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Metronidazole 400mg,A4-96226,Demo Life Sciences Ltd,B42562,1788849273844,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Artemether 20mg,A11-8007,Sample Health Nigeria Ltd,???,3392829653135,suspicious,Synthetic demonstration record; injected issue: bad_batch.
+DEMO Metronidazole 400mg,A4-90356,Example Laboratories Ltd,B50442,3450174056606,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Amoxicillin 500mg,A11-5921,Sample Remedies Ltd,B73362,3753609617355,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Amoxicillin 500mg,A4-31557,Sample Remedies Ltd,12,7826675768516,suspicious,Synthetic demonstration record; injected issue: bad_batch.
+DEMO Amoxicillin 500mg,A4-78900,Demo Life Sciences Ltd,B18522,1759998890258,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Paracetamol 500mg,04-1930,Example Healthcare Ltd,B54458,3968750910994,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Amoxicillin 500mg,A11-5022,Demo Life Sciences Ltd,B81412,9326081065390,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Artemether 20mg,A4-47243,Demo Life Sciences Ltd,B63181,999999999999999,suspicious,Synthetic demonstration record; injected issue: bad_barcode.
+DEMO Paracetamol 500mg,A11-6144,Demo Pharma Nigeria Ltd,B34825,000000000000,suspicious,Synthetic demonstration record; injected issue: bad_barcode.
+DEMO Vitamin C 100mg,04-4949,Example Laboratories Ltd,B34027,3984120976082,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Artemether 20mg,04-3719,Demo Pharma Nigeria Ltd,B42730,9065446946557,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Cetirizine 10mg,A11-6934,Example Healthcare Ltd,B19771,7050160837357,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Paracetomol 500mg,04-3071,Example Laboratories Ltd,B94487,1969668513602,suspicious,Synthetic demonstration record; injected issue: odd_text.
+DEMO Paracetamol 500mg,04-9667,Demo Pharma Nigeria Ltd,B59936,ABC123456789,suspicious,Synthetic demonstration record; injected issue: bad_barcode.
+DEMO Amoxicillin 500mg,A11-9921,Sample Health Nigeria Ltd,B67134,5635514163084,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Zinc 20mg,04-9930,Example Healthcare Ltd,B24814,1404195574530,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Amoxicillin 500mg,A11-5669,Sample Health Nigeria Ltd,B-XYZ,9017132417905,suspicious,Synthetic demonstration record; injected issue: bad_batch.
+DEMO Artemether 20mg,04-1850,Demo Pharma Nigeria Ltd,B79480,6954951368509,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Metronidazole 400mg,A11-1287,Example Laboratories Ltd,B44198,9431318354803,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Paracetamol 500mg,A4-60338,Demo Pharma Nigeria Ltd,B84799,2379558849620,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Metronidazole 400mg,A1--77,Sample Health Nigeria Ltd,B14030,3792913056100,suspicious,Synthetic demonstration record; injected issue: bad_nafdac.
+DEMO Zinc 20mg,A11-3066,Sample Remedies Ltd,B55066,2295077522961,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Artemether 20mg,04-9346,Demo Pharma Nigeria Ltd,B11616,2096492541656,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Metronidazole 400mg,A11-12X,Example Laboratories Ltd,B62299,2797980864940,suspicious,Synthetic demonstration record; injected issue: bad_nafdac.
+DEMO Paracetamol 500mg,NAFDAC-XYZ-000,Example Laboratories Ltd,B84335,2113784232852,suspicious,Synthetic demonstration record; injected issue: bad_nafdac.
+DEMO Vitamin C 100mg,04-5688,Sample Health Nigeria Ltd,B37085,ABC123456789,suspicious,Synthetic demonstration record; injected issue: bad_barcode.
+DEMO Zinc 20mg,FAKE-0001,Sample Health Nigeria Ltd,B54924,5996782380940,suspicious,Synthetic demonstration record; injected issue: bad_nafdac.
+DEMO Paracetamol 500mg,A4/ABC,Example Laboratories Ltd,B22630,4772028873846,suspicious,Synthetic demonstration record; injected issue: bad_nafdac.
+DEMO Amoxcillin 500mg,04-1160,Sample Health Nigeria Ltd,B76448,5206434413997,suspicious,Synthetic demonstration record; injected issue: odd_text.
+DEMO Paracetamol 500mg,A4-53545,Example Healthcare Ltd,B84647,8171353794925,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Ibuprofen 200mg,04-2069,Demo Life Sciences Ltd,B93989,6427964416047,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Artemether 20mg,A4-53570,Sample Health Nigeria Ltd,B48328,12345,suspicious,Synthetic demonstration record; injected issue: bad_barcode.
+DEMO Artemether 20mg,04-8933,Example Healthcare Ltd,B99511,8349118870814,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Paracetamol 500mg,A11-9309,Sample Remedies Ltd,B63498,12345,suspicious,Synthetic demonstration record; injected issue: bad_barcode.
+DEMO Zinc 20mg,A11-5100,Sample Health Nigeria Ltd,B63869,3562480741041,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Paracetamol 500mg,04-1480,Demo Life Sciences Ltd,B11903,1498558682478,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Vitamin C 100mg,04-9858,Demo Life Sciences Ltd,B56439,4542674111487,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Cetirizine 10mg,A4-18968,Example Laboratories Ltd,B88749,8660184641399,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Zinc 20mg,A11-3540,Example Healthcare Ltd,B30526,6141093865684,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Paracetamol 500mg,A11-8500,Demo Pharma Nigeria Ltd,B43624,5713776538458,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Paracetomol 500mg,04-9122,Demo Pharma Nigeria Ltd,B46367,1892018274218,suspicious,Synthetic demonstration record; injected issue: odd_text.
+DEMO Zinc 20mg,04-7650,Example Healthcare Ltd,,8015297866941,suspicious,Synthetic demonstration record; injected issue: bad_batch.
+DEMO Ibuprofen 200mg,A4-78628,Demo Life Sciences Ltd,B39077,8718149297102,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Vitamin C 100mg,A4-48309,Example Laboratories Ltd,B67560,3398169857507,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Amoxicillin 500mg,A11-7631,Sample Remedies Ltd,B64375,4307606291035,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Artemether 20mg,04-9538,Sample Remedies Ltd,B44151,7171690109102,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Metronidazole 400mg,A4-96087,Sample Health Nigeria Ltd,B86876,3955250845041,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Ibuprofen 200mg,04-6695,Sample Remedies Ltd,B68732,8239526451522,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Paracetamol 500mg,A4-86210,Example Healthcare Ltd,B,2821641338131,suspicious,Synthetic demonstration record; injected issue: bad_batch.
+DEMO Amoxicillin 500mg,A11-5708,Sample Health Nigeria Ltd,B,1855861734069,suspicious,Synthetic demonstration record; injected issue: bad_batch.
+DEMO Metronidazole 400mg,04-5006,Demo Pharma Nigeria Ltd,B96393,8207957584765,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Ibuprofen 200mg,04-6310,Sample Health Nigeria Ltd,B81559,9514243565355,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Paracetamol 500mg,A4-1777,Demo Pharma Nigeria Ltd,B56848,2541621736834,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Amoxcillin 500mg,04-5658,Sample Remedies Ltd,B51938,5703685979617,suspicious,Synthetic demonstration record; injected issue: odd_text.
+DEMO Amoxicillin 500mg,04-7490,Demo Life Sciences Ltd,B22522,2077602296509,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Paracetamol 500mg,A11-12X,Sample Remedies Ltd,B69207,4767474707112,suspicious,Synthetic demonstration record; injected issue: bad_nafdac.
+DEMO Metronidazole 400mg,04-8156,Sample Remedies Ltd,B76440,7862789323635,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Artemether 20mg,A11-9424,Demo Life Sciences Ltd,B38299,2418504837624,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Cetirizine 10mg,A4-94956,Sample Remedies Ltd,B76373,7567171378095,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Zinc 20mg,A4-98675,Sample Remedies Ltd,B80226,5314326077120,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Paracetomol 500mg,04-6733,Example Laboratories Ltd,B86169,2066307194953,suspicious,Synthetic demonstration record; injected issue: odd_text.
+DEMO Paracetamol 500mg,A11-5088,Sample Remedies Ltd,B62942,7174867285948,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Metronidazole 400mg,A11-1108,Example Laboratories Ltd,B48816,5126932736186,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Artemether 20mg,A4-99705,Demo Life Sciences Ltd,B92658,8031646318882,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Paracetamol 500mg,A11-6991,Sample Health Nigeria Ltd,B71603,8532069216947,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Zinc 20mg,04-9072,Demo Pharma Nigeria Ltd,B69910,6851125140028,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Ibuprofen 200mg,A11-12X,Demo Pharma Nigeria Ltd,B32132,2287196876499,suspicious,Synthetic demonstration record; injected issue: bad_nafdac.
+DEMO Amoxicillin 500mg,A11-1048,Demo Pharma Nigeria Ltd,B91956,6906421353946,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Amoxicillin 500mg,A4-29491,Demo Pharma Nigeria Ltd,B83797,8213336297733,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Ibuprofen 200mg,A11-12X,Example Healthcare Ltd,B15150,8208674682774,suspicious,Synthetic demonstration record; injected issue: bad_nafdac.
+DEMO Ibuprofen 200mg,04-2023,Example Laboratories Ltd,B83781,1361361695923,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Paracetamol 500mg,FAKE-0001,Example Laboratories Ltd,B55407,7706693154958,suspicious,Synthetic demonstration record; injected issue: bad_nafdac.
+DEMO Vitamin C 100mg,04-1899,Demo Pharma Nigeria Ltd,B83198,2737373417819,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Metronidazole 400mg,A11-6546,Demo Life Sciences Ltd,B98217,6503892453793,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Paracetamol 500mg,04-4340,Demo Pharma Nigeria Ltd,B29721,7386204565904,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Paracetamol 500mg,A4-78623,Example Laboratories Ltd,B26517,9820244615986,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Artemether 20mg,A4-30832,Demo Life Sciences Ltd,B-XYZ,2306172291985,suspicious,Synthetic demonstration record; injected issue: bad_batch.
+DEMO Cetirizine 10mg,NAFDAC-XYZ-000,Demo Life Sciences Ltd,B72979,6843098397207,suspicious,Synthetic demonstration record; injected issue: bad_nafdac.
+DEMO Vitamin C 100mg,A4-97366,Demo Life Sciences Ltd,B72178,5267518565343,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Amoxicillin 500mg,04-6498,Sample Health Nigeria Ltd,B35026,3742341433847,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Vitamin C 100mg,A4-94964,Demo Life Sciences Ltd,B97430,4679047984857,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Cetirizine 10mg,A4-47938,Demo Life Sciences Ltd,B38533,1324538508496,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Amoxicillin 500mg,A4-65146,Example Healthcare Ltd,B-XYZ,6091947103886,suspicious,Synthetic demonstration record; injected issue: bad_batch.
+DEMO Metronidazole 400mg,A11-4882,Demo Life Sciences Ltd,B38458,8086889997872,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Cetirizine 10mg,A4-88752,Demo Life Sciences Ltd,B57373,12345,suspicious,Synthetic demonstration record; injected issue: bad_barcode.
+DEMO Zinc 20mg,A1--77,Sample Health Nigeria Ltd,B55326,5682476032664,suspicious,Synthetic demonstration record; injected issue: bad_nafdac.
+DEMO Cetirizine 10mg,A4-86982,Sample Health Nigeria Ltd,B44552,2042710519017,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Ibuprofen 200mg,A4-18126,Example Laboratories Ltd,B15001,3525502925202,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Metronidazole 400mg,04-8708,Example Healthcare Ltd,B-XYZ,1132145592040,suspicious,Synthetic demonstration record; injected issue: bad_batch.
+DEMO Artemether 20mg,A4-37126,Example Laboratories Ltd,B23825,6407563671505,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Cetirizine 10mg,04-7934,Sample Health Nigeria Ltd,B16894,7948944022190,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Metronidazole 400mg,A11-7073,Demo Pharma Nigeria Ltd,B73485,12345,suspicious,Synthetic demonstration record; injected issue: bad_barcode.
+DEMO Ibuprofen 200mg,FAKE-0001,Demo Life Sciences Ltd,B52004,2493161810888,suspicious,Synthetic demonstration record; injected issue: bad_nafdac.
+DEMO Zinc 20mg,A11-5525,Sample Health Nigeria Ltd,B-XYZ,8551627577934,suspicious,Synthetic demonstration record; injected issue: bad_batch.
+DEMO Ibuprofen 200mg,A11-5316,Sample Remedies Ltd,B39573,7797971555151,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Paracetomol 500mg,A11-6688,Sample Health Nigeria Ltd,B23560,2628339870077,suspicious,Synthetic demonstration record; injected issue: odd_text.
+DEMO Amoxicillin 500mg,A4-2376,Example Healthcare Ltd,B27494,6278006557132,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Paracetamol 500mg,A4-41273,Example Healthcare Ltd,12,8592295462862,suspicious,Synthetic demonstration record; injected issue: bad_batch.
+DEMO Ibuprofen 200mg,A11-8929,Example Laboratories Ltd,B65244,4299475464393,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Artemether 20mg,04-4328,Sample Health Nigeria Ltd,B-XYZ,5343152577285,suspicious,Synthetic demonstration record; injected issue: bad_batch.
+DEMO Vitamin C 100mg,A4-58708,Sample Health Nigeria Ltd,B37447,8652468689502,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Vitamin C 100mg,04-9255,Sample Health Nigeria Ltd,B57826,1944817443064,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Metronidazole 400mg,A11-3332,Demo Life Sciences Ltd,B45234,4049700720486,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Paracetamol 500mg,A11-6385,Demo Life Sciences Ltd,B93470,5033865954311,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Cetirizine 10mg,04-9835,Demo Pharma Nigeria Ltd,B47396,999999999999999,suspicious,Synthetic demonstration record; injected issue: bad_barcode.
+DEMO Cetirizine 10mg,04-3562,Sample Health Nigeria Ltd,B,7852893068655,suspicious,Synthetic demonstration record; injected issue: bad_batch.
+DEMO Amoxcillin 500mg,04-4960,Example Laboratories Ltd,B51465,2026936640652,suspicious,Synthetic demonstration record; injected issue: odd_text.
+DEMO Cetirizine 10mg,A1--77,Sample Health Nigeria Ltd,B68868,9728336050349,suspicious,Synthetic demonstration record; injected issue: bad_nafdac.
+DEMO Ibuprofen 200mg,04-3679,Example Laboratories Ltd,B97330,4118435751817,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO @@@ 500mg,A4-33200,Demo Life Sciences Ltd,B79960,5407297676351,suspicious,Synthetic demonstration record; injected issue: odd_text.
+DEMO Amoxicillin 500mg,04-5863,Sample Remedies Ltd,B16662,1763373450806,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Ibuprofen 200mg,A11-4353,Example Healthcare Ltd,B93222,8403247815556,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Zinc 20mg,A4/ABC,Demo Pharma Nigeria Ltd,B43207,7077750658006,suspicious,Synthetic demonstration record; injected issue: bad_nafdac.
+DEMO Ibuprofen 200mg,A11-9169,Demo Pharma Nigeria Ltd,B87890,12345,suspicious,Synthetic demonstration record; injected issue: bad_barcode.
+DEMO Paracetamol 500mg,04-3366,Demo Life Sciences Ltd,B31028,1040501124456,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Metronidazole 400mg,04-3291,Demo Life Sciences Ltd,???,4612200017980,suspicious,Synthetic demonstration record; injected issue: bad_batch.
+DEMO Vitamin C 100mg,A4-71253,Sample Health Nigeria Ltd,B57176,8680102040295,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Paracetomol 500mg,A11-7113,Sample Remedies Ltd,B45724,3473425456795,suspicious,Synthetic demonstration record; injected issue: odd_text.
+DEMO Metronidazole 400mg,A4-30339,Sample Remedies Ltd,12,8266884453785,suspicious,Synthetic demonstration record; injected issue: bad_batch.
+DEMO Amoxcillin 500mg,04-7611,Demo Life Sciences Ltd,B22313,6173847366606,suspicious,Synthetic demonstration record; injected issue: odd_text.
+DEMO Paracetamol 500mg,04-1927,Sample Remedies Ltd,B54621,5472249365172,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Artemether 20mg,A11-5079,Demo Pharma Nigeria Ltd,B16044,2817811339198,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Zinc 20mg,04-7766,Demo Life Sciences Ltd,B89263,000000000000,suspicious,Synthetic demonstration record; injected issue: bad_barcode.
+DEMO Cetirizine 10mg,A4-33208,Sample Health Nigeria Ltd,B35608,9072971188956,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Zinc 20mg,A4-62368,Sample Health Nigeria Ltd,B37540,7680861544761,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Metronidazole 400mg,A11-2398,Demo Pharma Nigeria Ltd,B36944,3172348554639,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Artemether 20mg,A4-78597,Sample Health Nigeria Ltd,B10138,000000000000,suspicious,Synthetic demonstration record; injected issue: bad_barcode.
+DEMO Vitamin C 100mg,04-7043,Sample Health Nigeria Ltd,B52862,999999999999999,suspicious,Synthetic demonstration record; injected issue: bad_barcode.
+DEMO Artemether 20mg,A11-4843,Example Laboratories Ltd,B52324,6059536603637,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Metronidazole 400mg,A11-1322,Example Healthcare Ltd,B95980,5614588578700,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Zinc 20mg,A11-6148,Sample Health Nigeria Ltd,B76531,1369711839743,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Paracetamol 500mg,A11-1458,Sample Health Nigeria Ltd,B50960,5644790211313,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Ibuprofen 200mg,A4-21494,Demo Pharma Nigeria Ltd,B67200,999999999999999,suspicious,Synthetic demonstration record; injected issue: bad_barcode.
+DEMO Artemether 20mg,A11-2008,Sample Remedies Ltd,B45470,4749486697621,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Vitamin C 100mg,A11-1263,Sample Health Nigeria Ltd,B24631,5573506202315,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Artemether 20mg,A11-3060,Sample Remedies Ltd,???,8025230237738,suspicious,Synthetic demonstration record; injected issue: bad_batch.
+DEMO Cetirizine 10mg,A4-74649,Example Healthcare Ltd,B92274,7149325218928,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Artemether 20mg,04-7403,Example Healthcare Ltd,B93733,1437123608622,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Amoxicillin 500mg,NAFDAC-XYZ-000,Demo Pharma Nigeria Ltd,B64322,2243848344746,suspicious,Synthetic demonstration record; injected issue: bad_nafdac.
+DEMO Paracetamol 500mg,04-6580,Sample Health Nigeria Ltd,B26948,1281551616114,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Vitamin C 100mg,A4-1469,Example Healthcare Ltd,???,6311758444894,suspicious,Synthetic demonstration record; injected issue: bad_batch.
+DEMO Paracetomol 500mg,04-3619,Demo Life Sciences Ltd,B65720,2464691374944,suspicious,Synthetic demonstration record; injected issue: odd_text.
+DEMO Amoxicillin 500mg,A11-4253,Sample Health Nigeria Ltd,B60123,000000000000,suspicious,Synthetic demonstration record; injected issue: bad_barcode.
+DEMO Ibuprofen 200mg,A11-2946,Demo Pharma Nigeria Ltd,B38655,8192921700172,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Cetirizine 10mg,A11-7622,Sample Remedies Ltd,B67213,1702975537723,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO @@@ 500mg,04-3713,Sample Remedies Ltd,B11713,2489389818235,suspicious,Synthetic demonstration record; injected issue: odd_text.
+DEMO Ibuprofen 200mg,04-7986,Example Healthcare Ltd,B21175,6344474932255,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Amoxicillin 500mg,A11-9924,Example Laboratories Ltd,B72377,2556495427978,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Artemether 20mg,A11-4493,Demo Pharma Nigeria Ltd,B93174,9937761237373,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Amoxicillin 500mg,A11-6595,Demo Life Sciences Ltd,B90756,8923422701148,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Amoxicillin 500mg,A11-4091,Example Healthcare Ltd,B74944,6351108480017,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Metronidazole 400mg,A11-3081,Sample Health Nigeria Ltd,B85261,1163444895229,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Ibuprofen 200mg,A11-5726,Sample Health Nigeria Ltd,B85511,6496931199118,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Vitamin C 100mg,A11-7825,Example Laboratories Ltd,B70985,7531926712438,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Metronidazole 400mg,A4-4481,Sample Health Nigeria Ltd,B23480,5631247466969,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Ibuprofen 200mg,04-9006,Sample Remedies Ltd,B56820,4671652873244,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Metronidazole 400mg,A11-2605,Sample Remedies Ltd,12,2344367407313,suspicious,Synthetic demonstration record; injected issue: bad_batch.
+DEMO Amoxicillin 500mg,A4-47509,Sample Health Nigeria Ltd,B87307,9213244697276,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Zinc 20mg,04-1798,Example Laboratories Ltd,B67998,4411474255335,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Metronidazole 400mg,A4-11356,Demo Life Sciences Ltd,B75801,8046641170233,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Ibuprofen 200mg,04-1029,Sample Health Nigeria Ltd,B72953,8182876922364,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO @@@ 500mg,A4-80692,Sample Remedies Ltd,B76923,1208260851237,suspicious,Synthetic demonstration record; injected issue: odd_text.
+DEMO Zinc 20mg,A4-57567,Sample Health Nigeria Ltd,B66586,3872192397396,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Cetirizine 10mg,A4-7700,Sample Remedies Ltd,,6415972802808,suspicious,Synthetic demonstration record; injected issue: bad_batch.
+DEMO Artemether 20mg,A4-31471,Sample Remedies Ltd,B42641,2179978237235,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Metronidazole 400mg,A11-1890,Demo Pharma Nigeria Ltd,B40552,9594085526701,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Vitamin C 100mg,04-9779,Example Laboratories Ltd,B62578,3503020211843,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Amoxicillin 500mg,A11-1406,Sample Remedies Ltd,B56980,5215749771220,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Paracetamol 500mg,04-8951,Sample Remedies Ltd,B18085,6872672806773,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Paracetamol 500mg,04-7953,Example Healthcare Ltd,B32719,999999999999999,suspicious,Synthetic demonstration record; injected issue: bad_barcode.
+DEMO Paracetamol 500mg,04-4690,Sample Health Nigeria Ltd,B65256,9576992194910,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Amoxicillin 500mg,04-8611,Sample Health Nigeria Ltd,B37401,5976084286579,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Metronidazole 400mg,A4-45978,Demo Life Sciences Ltd,B46229,2487801910305,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Amoxicillin 500mg,A11-8630,Demo Pharma Nigeria Ltd,???,6258050740550,suspicious,Synthetic demonstration record; injected issue: bad_batch.
+DEMO Ibuprofen 200mg,04-6429,Sample Remedies Ltd,B19989,7951176889070,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Zinc 20mg,A4-27189,Sample Remedies Ltd,B20858,9065098741811,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Amoxicillin 500mg,A11-2666,Sample Health Nigeria Ltd,B65593,4722111381789,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Amoxicillin 500mg,A4-53951,Sample Health Nigeria Ltd,B-XYZ,8662011844618,suspicious,Synthetic demonstration record; injected issue: bad_batch.
+DEMO Metronidazole 400mg,NAFDAC-XYZ-000,Example Healthcare Ltd,B39977,2451286565667,suspicious,Synthetic demonstration record; injected issue: bad_nafdac.
+DEMO Zinc 20mg,A4-53444,Demo Pharma Nigeria Ltd,B79961,5658953691589,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Vitamin C 100mg,A4-19067,Demo Life Sciences Ltd,B84290,2185793496028,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Zinc 20mg,A4-55886,Demo Pharma Nigeria Ltd,B53382,9578849724145,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Zinc 20mg,A11-2413,Example Healthcare Ltd,B24795,1270491208850,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Zinc 20mg,04-4603,Demo Pharma Nigeria Ltd,B38937,6473162907230,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Cetirizine 10mg,A11-12X,Demo Life Sciences Ltd,B69439,9897435086675,suspicious,Synthetic demonstration record; injected issue: bad_nafdac.
+DEMO Metronidazole 400mg,A4-56355,Sample Remedies Ltd,,2375894099136,suspicious,Synthetic demonstration record; injected issue: bad_batch.
+DEMO @@@ 500mg,A4-79569,Sample Remedies Ltd,B15138,6604378704893,suspicious,Synthetic demonstration record; injected issue: odd_text.
+DEMO @@@ 500mg,A11-5973,Example Healthcare Ltd,B93139,4941906426282,suspicious,Synthetic demonstration record; injected issue: odd_text.
+DEMO Artemether 20mg,A11-4906,Example Healthcare Ltd,B89030,5124358373828,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Amoxicillin 500mg,A11-4725,Example Laboratories Ltd,12,4536346524131,suspicious,Synthetic demonstration record; injected issue: bad_batch.
+DEMO Metronidazole 400mg,A4-61777,Sample Remedies Ltd,B37260,6397258210443,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Paracetomol 500mg,04-6252,Demo Life Sciences Ltd,B40843,2595119511243,suspicious,Synthetic demonstration record; injected issue: odd_text.
+DEMO @@@ 500mg,A4-53609,Sample Remedies Ltd,B36069,7746567570305,suspicious,Synthetic demonstration record; injected issue: odd_text.
+DEMO Metronidazole 400mg,04-7645,Example Healthcare Ltd,B37222,9527820396992,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Vitamin C 100mg,A4-72784,Sample Remedies Ltd,B90485,7478042815193,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Zinc 20mg,04-4673,Example Healthcare Ltd,B47736,6823646183289,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Vitamin C 100mg,NAFDAC-XYZ-000,Sample Remedies Ltd,B33268,1825513111530,suspicious,Synthetic demonstration record; injected issue: bad_nafdac.
+DEMO Metronidazole 400mg,04-2780,Example Laboratories Ltd,B69661,1177898008084,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO @@@ 500mg,A11-2164,Example Laboratories Ltd,B94574,3220123395035,suspicious,Synthetic demonstration record; injected issue: odd_text.
+DEMO Paracetomol 500mg,04-7673,Example Laboratories Ltd,B22478,3551686899392,suspicious,Synthetic demonstration record; injected issue: odd_text.
+DEMO Zinc 20mg,04-7709,Demo Life Sciences Ltd,B59136,9576302216369,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Artemether 20mg,A4-44596,Example Healthcare Ltd,12,3884420455101,suspicious,Synthetic demonstration record; injected issue: bad_batch.
+DEMO Cetirizine 10mg,A4-36893,Demo Pharma Nigeria Ltd,B58531,8875968519901,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Vitamin C 100mg,04-5900,Example Healthcare Ltd,B94233,8685859385324,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Metronidazole 400mg,A4-40879,Sample Remedies Ltd,B49848,4007001402628,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Zinc 20mg,A11-12X,Sample Health Nigeria Ltd,B93147,8589905971856,suspicious,Synthetic demonstration record; injected issue: bad_nafdac.
+DEMO Zinc 20mg,04-7297,Example Laboratories Ltd,B30985,5325468678480,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Amoxicillin 500mg,A4-59009,Demo Life Sciences Ltd,B68033,3603881224920,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Artemether 20mg,A4/ABC,Sample Remedies Ltd,B35776,8344504150774,suspicious,Synthetic demonstration record; injected issue: bad_nafdac.
+DEMO Amoxicillin 500mg,FAKE-0001,Sample Remedies Ltd,B10675,4025169716764,suspicious,Synthetic demonstration record; injected issue: bad_nafdac.
+DEMO Amoxicillin 500mg,04-5054,Demo Pharma Nigeria Ltd,B72989,2041337505784,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Zinc 20mg,A4-62346,Example Healthcare Ltd,B27332,2385672243198,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Zinc 20mg,04-6296,Sample Health Nigeria Ltd,B36067,1626765729322,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Ibuprofen 200mg,A11-7397,Example Healthcare Ltd,B34356,999999999999999,suspicious,Synthetic demonstration record; injected issue: bad_barcode.
+DEMO Cetirizine 10mg,A4-30212,Example Healthcare Ltd,B24015,5969664357033,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Metronidazole 400mg,A4/ABC,Example Laboratories Ltd,B68741,9928378049751,suspicious,Synthetic demonstration record; injected issue: bad_nafdac.
+DEMO Paracetamol 500mg,04-3672,Demo Pharma Nigeria Ltd,B71504,9789976703948,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO @@@ 500mg,A4-33050,Example Healthcare Ltd,B48229,1462772391012,suspicious,Synthetic demonstration record; injected issue: odd_text.
+DEMO Metronidazole 400mg,04-3116,Example Laboratories Ltd,B91548,4749993982358,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Metronidazole 400mg,A11-6128,Example Laboratories Ltd,B82124,999999999999999,suspicious,Synthetic demonstration record; injected issue: bad_barcode.
+DEMO Zinc 20mg,A11-5589,Demo Pharma Nigeria Ltd,B39330,5804560119465,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Paracetamol 500mg,NAFDAC-XYZ-000,Example Healthcare Ltd,B10046,4926849937247,suspicious,Synthetic demonstration record; injected issue: bad_nafdac.
+DEMO Artemether 20mg,04-1586,Demo Life Sciences Ltd,B77205,2512007637200,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Ibuprofen 200mg,NAFDAC-XYZ-000,Example Healthcare Ltd,B84080,5850475896377,suspicious,Synthetic demonstration record; injected issue: bad_nafdac.
+DEMO Vitamin C 100mg,A11-5537,Sample Remedies Ltd,B-XYZ,3317067633915,suspicious,Synthetic demonstration record; injected issue: bad_batch.
+DEMO Ibuprofen 200mg,A4-21629,Example Laboratories Ltd,B51820,4311139061995,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Metronidazole 400mg,A11-2460,Example Laboratories Ltd,B96564,1773841150998,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Amoxcillin 500mg,A11-9888,Demo Pharma Nigeria Ltd,B84078,4586559611267,suspicious,Synthetic demonstration record; injected issue: odd_text.
+DEMO Amoxicillin 500mg,04-8854,Sample Remedies Ltd,B92608,ABC123456789,suspicious,Synthetic demonstration record; injected issue: bad_barcode.
+DEMO Amoxicillin 500mg,A11-7611,Demo Life Sciences Ltd,B29871,6904664911854,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Paracetamol 500mg,A4-3631,Demo Life Sciences Ltd,B-XYZ,8456922323548,suspicious,Synthetic demonstration record; injected issue: bad_batch.
+DEMO Paracetamol 500mg,A11-4767,Sample Health Nigeria Ltd,B64139,5375728680599,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Artemether 20mg,04-7790,Example Laboratories Ltd,B19343,6051007611009,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Artemether 20mg,A4-67987,Demo Pharma Nigeria Ltd,B56972,3832746567079,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Ibuprofen 200mg,A11-12X,Demo Pharma Nigeria Ltd,B42608,2910494249566,suspicious,Synthetic demonstration record; injected issue: bad_nafdac.
+DEMO Metronidazole 400mg,04-5284,Example Laboratories Ltd,B25476,9012375656411,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Ibuprofen 200mg,A11-5174,Sample Health Nigeria Ltd,B52719,2936604471658,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Amoxicillin 500mg,A4-21491,Example Healthcare Ltd,B71156,2926830604030,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Paracetamol 500mg,A1--77,Sample Remedies Ltd,B56929,2212228224309,suspicious,Synthetic demonstration record; injected issue: bad_nafdac.
+DEMO Artemether 20mg,A4-27215,Sample Remedies Ltd,B42467,1497433685510,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Zinc 20mg,A11-12X,Demo Life Sciences Ltd,B47681,8995289077564,suspicious,Synthetic demonstration record; injected issue: bad_nafdac.
+DEMO Paracetamol 500mg,A4-13074,Example Laboratories Ltd,B19666,2037937942998,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Amoxicillin 500mg,04-2289,Sample Health Nigeria Ltd,B96635,8378279724141,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Zinc 20mg,A4-94914,Sample Remedies Ltd,B13975,4611384677674,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Amoxcillin 500mg,A11-5487,Demo Life Sciences Ltd,B92417,2533070742926,suspicious,Synthetic demonstration record; injected issue: odd_text.
+DEMO Vitamin C 100mg,04-6262,Example Healthcare Ltd,B97378,4426591250953,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Vitamin C 100mg,A11-8185,Demo Pharma Nigeria Ltd,B68912,2738874902005,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Ibuprofen 200mg,A4-43719,Demo Pharma Nigeria Ltd,B63039,4228055123750,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Ibuprofen 200mg,04-7955,Demo Life Sciences Ltd,B44113,9395016576911,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Artemether 20mg,A11-6928,Example Healthcare Ltd,B50593,6111408073855,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Artemether 20mg,A11-5788,Demo Life Sciences Ltd,B43283,4111577251863,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Paracetamol 500mg,04-2930,Example Healthcare Ltd,B24945,7508024219307,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Paracetomol 500mg,04-9346,Demo Life Sciences Ltd,B78234,3316801261108,suspicious,Synthetic demonstration record; injected issue: odd_text.
+DEMO @@@ 500mg,A4-11288,Demo Pharma Nigeria Ltd,B70204,1473183912907,suspicious,Synthetic demonstration record; injected issue: odd_text.
+DEMO Zinc 20mg,FAKE-0001,Demo Life Sciences Ltd,B98099,1346877993910,suspicious,Synthetic demonstration record; injected issue: bad_nafdac.
+DEMO Cetirizine 10mg,999999,Demo Pharma Nigeria Ltd,B12387,7691139651000,suspicious,Synthetic demonstration record; injected issue: bad_nafdac.
+DEMO Amoxicillin 500mg,A11-8924,Sample Remedies Ltd,B50695,8079847412441,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Zinc 20mg,04-2445,Sample Health Nigeria Ltd,B43575,6085701195675,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Vitamin C 100mg,A11-9671,Example Laboratories Ltd,B23478,999999999999999,suspicious,Synthetic demonstration record; injected issue: bad_barcode.
+DEMO Ibuprofen 200mg,A4-12611,Sample Health Nigeria Ltd,,6348454248713,suspicious,Synthetic demonstration record; injected issue: bad_batch.
+DEMO Vitamin C 100mg,04-6464,Example Laboratories Ltd,B55480,999999999999999,suspicious,Synthetic demonstration record; injected issue: bad_barcode.
+DEMO Vitamin C 100mg,04-8151,Sample Health Nigeria Ltd,B43298,4758573633885,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Amoxicillin 500mg,A11-1215,Sample Health Nigeria Ltd,B16201,999999999999999,suspicious,Synthetic demonstration record; injected issue: bad_barcode.
+DEMO Cetirizine 10mg,A4-67164,Demo Life Sciences Ltd,B51730,7211140926205,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Paracetamol 500mg,A4-96143,Sample Remedies Ltd,B81144,1360855088854,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Cetirizine 10mg,A4-35069,Sample Health Nigeria Ltd,B29289,2256612887611,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Paracetomol 500mg,A4-97466,Demo Pharma Nigeria Ltd,B56084,4644946553461,suspicious,Synthetic demonstration record; injected issue: odd_text.
+DEMO Paracetamol 500mg,A4-14240,Demo Life Sciences Ltd,B68649,ABC123456789,suspicious,Synthetic demonstration record; injected issue: bad_barcode.
+DEMO Artemether 20mg,A4-4999,Demo Pharma Nigeria Ltd,???,9941886971080,suspicious,Synthetic demonstration record; injected issue: bad_batch.
+DEMO Metronidazole 400mg,A11-9421,Demo Life Sciences Ltd,B37158,9126902380654,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Ibuprofen 200mg,FAKE-0001,Sample Health Nigeria Ltd,B92043,1538419035855,suspicious,Synthetic demonstration record; injected issue: bad_nafdac.
+DEMO Amoxicillin 500mg,04-4574,Example Laboratories Ltd,B58140,9241703720907,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Ibuprofen 200mg,A11-8120,Sample Remedies Ltd,B99024,9718770892253,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Amoxicillin 500mg,04-8804,Demo Life Sciences Ltd,B35743,9679358754022,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Amoxcillin 500mg,A4-94393,Example Laboratories Ltd,B58670,9783077863310,suspicious,Synthetic demonstration record; injected issue: odd_text.
+DEMO Amoxicillin 500mg,04-9089,Sample Health Nigeria Ltd,B81620,5911081246728,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Amoxicillin 500mg,04-8762,Sample Health Nigeria Ltd,B49414,5346445505245,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Vitamin C 100mg,04-1696,Example Healthcare Ltd,B42543,4523561575159,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Cetirizine 10mg,A4-9589,Example Laboratories Ltd,B75202,9376160396900,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Amoxcillin 500mg,A11-4451,Example Healthcare Ltd,B24176,2852378137116,suspicious,Synthetic demonstration record; injected issue: odd_text.
+DEMO Metronidazole 400mg,04-4197,Sample Health Nigeria Ltd,B88400,3127243918451,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Amoxicillin 500mg,A4-91331,Sample Health Nigeria Ltd,B15699,2756118169830,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Artemether 20mg,04-6559,Demo Life Sciences Ltd,12,2816805264485,suspicious,Synthetic demonstration record; injected issue: bad_batch.
+DEMO Ibuprofen 200mg,A4-23366,Demo Life Sciences Ltd,B95394,4131106981808,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Amoxcillin 500mg,A11-5863,Sample Remedies Ltd,B65882,4404788401360,suspicious,Synthetic demonstration record; injected issue: odd_text.
+DEMO Amoxicillin 500mg,999999,Demo Life Sciences Ltd,B38865,6878726965204,suspicious,Synthetic demonstration record; injected issue: bad_nafdac.
+DEMO Ibuprofen 200mg,04-2690,Example Healthcare Ltd,B,2519857374514,suspicious,Synthetic demonstration record; injected issue: bad_batch.
+DEMO Paracetamol 500mg,04-4929,Demo Life Sciences Ltd,B54787,5675946382986,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Artemether 20mg,A4-97355,Sample Health Nigeria Ltd,B18909,5301519226658,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Paracetamol 500mg,A11-6380,Example Laboratories Ltd,B,3051709950008,suspicious,Synthetic demonstration record; injected issue: bad_batch.
+DEMO Paracetamol 500mg,04-8209,Sample Remedies Ltd,B54493,5280050559095,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Ibuprofen 200mg,A4-64155,Example Laboratories Ltd,B68335,8035813428164,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Amoxicillin 500mg,04-7046,Sample Health Nigeria Ltd,B,4129062713522,suspicious,Synthetic demonstration record; injected issue: bad_batch.
+DEMO Zinc 20mg,A4-5517,Example Laboratories Ltd,B43381,000000000000,suspicious,Synthetic demonstration record; injected issue: bad_barcode.
+DEMO Vitamin C 100mg,A11-4481,Sample Remedies Ltd,B57918,7706834585028,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Amoxicillin 500mg,A11-6068,Sample Remedies Ltd,,7725428201727,suspicious,Synthetic demonstration record; injected issue: bad_batch.
+DEMO Paracetamol 500mg,A11-3952,Sample Health Nigeria Ltd,B82218,2779002840291,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Amoxcillin 500mg,A11-7760,Example Healthcare Ltd,B89453,7844914204568,suspicious,Synthetic demonstration record; injected issue: odd_text.
+DEMO Ibuprofen 200mg,A11-4441,Sample Remedies Ltd,B82197,3460867319139,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Amoxicillin 500mg,A4-48630,Example Laboratories Ltd,B59521,7345253768717,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Amoxicillin 500mg,04-4953,Example Laboratories Ltd,B62341,8335657865967,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Ibuprofen 200mg,A11-5206,Example Healthcare Ltd,B31667,4247295052757,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Artemether 20mg,A11-2651,Sample Remedies Ltd,B74714,7766026383076,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Artemether 20mg,04-4323,Sample Remedies Ltd,B21779,4949395316217,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Zinc 20mg,04-6655,Example Healthcare Ltd,B58539,9370030126191,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Metronidazole 400mg,A4-89087,Demo Pharma Nigeria Ltd,B88044,9989466736001,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Ibuprofen 200mg,04-7393,Sample Health Nigeria Ltd,B55384,5148382519657,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Paracetamol 500mg,A4-57247,Demo Life Sciences Ltd,B52947,5448830801811,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Ibuprofen 200mg,04-2770,Demo Life Sciences Ltd,B67826,1977913929360,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Ibuprofen 200mg,FAKE-0001,Demo Pharma Nigeria Ltd,B86304,9953417922586,suspicious,Synthetic demonstration record; injected issue: bad_nafdac.
+DEMO Amoxicillin 500mg,A4-63263,Example Healthcare Ltd,B21537,3412765943384,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Zinc 20mg,A11-2528,Sample Remedies Ltd,B41017,6013016036932,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Amoxicillin 500mg,A11-1534,Example Healthcare Ltd,B77204,9543641707082,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Ibuprofen 200mg,A11-8307,Demo Pharma Nigeria Ltd,B71318,2727290452699,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Amoxcillin 500mg,04-8329,Example Healthcare Ltd,B92919,2260498642205,suspicious,Synthetic demonstration record; injected issue: odd_text.
+DEMO Amoxicillin 500mg,A11-4869,Sample Health Nigeria Ltd,B34858,9680669975251,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Zinc 20mg,A4-38453,Sample Remedies Ltd,B72956,000000000000,suspicious,Synthetic demonstration record; injected issue: bad_barcode.
+DEMO Ibuprofen 200mg,A4-99412,Sample Health Nigeria Ltd,B29176,1038751981009,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Zinc 20mg,A11-12X,Demo Pharma Nigeria Ltd,B28794,5670231782383,suspicious,Synthetic demonstration record; injected issue: bad_nafdac.
+DEMO Paracetamol 500mg,A11-2699,Demo Pharma Nigeria Ltd,B45570,7723682205668,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Amoxicillin 500mg,A4-64582,Example Healthcare Ltd,B60793,000000000000,suspicious,Synthetic demonstration record; injected issue: bad_barcode.
+DEMO Metronidazole 400mg,A11-9309,Demo Pharma Nigeria Ltd,B98467,4706590962708,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Paracetamol 500mg,04-4726,Example Healthcare Ltd,B99368,7791158243962,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Vitamin C 100mg,A11-3604,Demo Pharma Nigeria Ltd,B28050,2668377455222,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Amoxicillin 500mg,04-6411,Example Laboratories Ltd,B29057,8224485447594,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Artemether 20mg,A4-93064,Demo Pharma Nigeria Ltd,???,2215342864505,suspicious,Synthetic demonstration record; injected issue: bad_batch.
+DEMO Vitamin C 100mg,A4-78874,Sample Health Nigeria Ltd,B66882,1316051299986,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Metronidazole 400mg,04-3233,Sample Remedies Ltd,B,2898409496398,suspicious,Synthetic demonstration record; injected issue: bad_batch.
+DEMO Paracetamol 500mg,A11-1890,Example Healthcare Ltd,B57071,8806811855342,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Cetirizine 10mg,FAKE-0001,Demo Life Sciences Ltd,B78396,2154639326599,suspicious,Synthetic demonstration record; injected issue: bad_nafdac.
+DEMO Paracetamol 500mg,A4-98468,Example Laboratories Ltd,B97769,8890103248764,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Metronidazole 400mg,A4-12666,Demo Pharma Nigeria Ltd,B83844,7744175755290,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Zinc 20mg,A4-85911,Example Healthcare Ltd,B37780,5547492300637,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Vitamin C 100mg,04-7627,Example Laboratories Ltd,B80819,9218383753123,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Artemether 20mg,A4-96101,Example Laboratories Ltd,,2696772104867,suspicious,Synthetic demonstration record; injected issue: bad_batch.
+DEMO Metronidazole 400mg,A4-64183,Example Laboratories Ltd,B92606,9857667384531,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Metronidazole 400mg,04-6539,Sample Remedies Ltd,B16393,1844270416069,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Zinc 20mg,A4-98016,Demo Pharma Nigeria Ltd,B35564,8090135655749,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Vitamin C 100mg,A11-3118,Sample Health Nigeria Ltd,B80195,7931738021839,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Cetirizine 10mg,A4-22795,Example Healthcare Ltd,B69262,8466358681770,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Zinc 20mg,A4-45793,Example Laboratories Ltd,B38819,5460445703809,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Artemether 20mg,A4-94568,Example Laboratories Ltd,B87858,1278035533324,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Ibuprofen 200mg,A11-7713,Demo Pharma Nigeria Ltd,12,3318513545638,suspicious,Synthetic demonstration record; injected issue: bad_batch.
+DEMO Paracetomol 500mg,A11-8158,Example Healthcare Ltd,B29433,5781634793366,suspicious,Synthetic demonstration record; injected issue: odd_text.
+DEMO @@@ 500mg,A4-74654,Demo Pharma Nigeria Ltd,B40635,7390151920490,suspicious,Synthetic demonstration record; injected issue: odd_text.
+DEMO Cetirizine 10mg,A11-1155,Demo Pharma Nigeria Ltd,B52851,999999999999999,suspicious,Synthetic demonstration record; injected issue: bad_barcode.
+DEMO Ibuprofen 200mg,A4-27047,Example Laboratories Ltd,B15232,6207483671312,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Zinc 20mg,04-2522,Example Healthcare Ltd,B91259,9297077558491,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Artemether 20mg,A11-1551,Example Healthcare Ltd,B21985,2080995670912,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Zinc 20mg,A4-9417,Demo Pharma Nigeria Ltd,12,2192878728562,suspicious,Synthetic demonstration record; injected issue: bad_batch.
+DEMO Paracetamol 500mg,04-9448,Demo Life Sciences Ltd,B46839,6746207749882,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Metronidazole 400mg,A11-2527,Sample Remedies Ltd,B50264,4114574406142,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Vitamin C 100mg,A11-8194,Example Laboratories Ltd,B80326,2381783917033,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO @@@ 500mg,A11-8933,Example Laboratories Ltd,B39717,7174448825552,suspicious,Synthetic demonstration record; injected issue: odd_text.
+DEMO Amoxicillin 500mg,NAFDAC-XYZ-000,Example Healthcare Ltd,B77739,7200113072076,suspicious,Synthetic demonstration record; injected issue: bad_nafdac.
+DEMO Artemether 20mg,A11-6596,Sample Health Nigeria Ltd,B61194,3608507024645,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Vitamin C 100mg,A4-67799,Demo Life Sciences Ltd,B-XYZ,2215718129957,suspicious,Synthetic demonstration record; injected issue: bad_batch.
+DEMO Metronidazole 400mg,A4-9584,Demo Life Sciences Ltd,B16666,5021549581726,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Zinc 20mg,A4-84697,Example Healthcare Ltd,B39758,7686156788721,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Ibuprofen 200mg,A4-50419,Sample Remedies Ltd,B59121,7843795166660,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Paracetamol 500mg,04-6777,Demo Life Sciences Ltd,B74929,5426313232715,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Cetirizine 10mg,04-5333,Sample Health Nigeria Ltd,B76375,1646653019376,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Cetirizine 10mg,A4-45606,Sample Health Nigeria Ltd,B40138,000000000000,suspicious,Synthetic demonstration record; injected issue: bad_barcode.
+DEMO Amoxicillin 500mg,A4-43762,Sample Remedies Ltd,B29522,1856687845032,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Artemether 20mg,04-9778,Example Laboratories Ltd,B58486,1289341790225,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Amoxicillin 500mg,A1--77,Demo Pharma Nigeria Ltd,B94695,2506284996797,suspicious,Synthetic demonstration record; injected issue: bad_nafdac.
+DEMO Vitamin C 100mg,A4-25748,Demo Life Sciences Ltd,B37725,7836787470756,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Zinc 20mg,04-8262,Sample Health Nigeria Ltd,B55018,12345,suspicious,Synthetic demonstration record; injected issue: bad_barcode.
+DEMO Metronidazole 400mg,A11-7756,Example Healthcare Ltd,B41480,3365841989437,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Zinc 20mg,04-4617,Demo Pharma Nigeria Ltd,B,5740959082260,suspicious,Synthetic demonstration record; injected issue: bad_batch.
+DEMO Artemether 20mg,A4-93928,Example Healthcare Ltd,B44121,8495533491952,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Vitamin C 100mg,04-9644,Example Healthcare Ltd,???,9865420270486,suspicious,Synthetic demonstration record; injected issue: bad_batch.
+DEMO Paracetamol 500mg,A4-57993,Example Healthcare Ltd,B67320,6046996371057,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Metronidazole 400mg,A4-33736,Sample Remedies Ltd,B46748,7742567415839,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Cetirizine 10mg,A11-1506,Demo Pharma Nigeria Ltd,B48707,8654687910291,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Amoxicillin 500mg,04-3846,Demo Pharma Nigeria Ltd,B78339,5985830132351,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Paracetamol 500mg,A4-2000,Example Healthcare Ltd,B32972,3475279365672,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Paracetamol 500mg,NAFDAC-XYZ-000,Sample Health Nigeria Ltd,B62354,1195511101336,suspicious,Synthetic demonstration record; injected issue: bad_nafdac.
+DEMO Cetirizine 10mg,A4-45735,Demo Life Sciences Ltd,B30599,4985663691086,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Ibuprofen 200mg,A4-90485,Demo Life Sciences Ltd,B90373,1099150006458,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Artemether 20mg,NAFDAC-XYZ-000,Demo Life Sciences Ltd,B71351,2825114073482,suspicious,Synthetic demonstration record; injected issue: bad_nafdac.
+DEMO Metronidazole 400mg,A4-30726,Example Healthcare Ltd,B63947,9578335419211,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Zinc 20mg,A4-11376,Sample Remedies Ltd,B79445,3019743034071,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Artemether 20mg,A4-64756,Sample Remedies Ltd,B74026,1165940225876,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO @@@ 500mg,A11-1925,Demo Life Sciences Ltd,B66842,8294677440937,suspicious,Synthetic demonstration record; injected issue: odd_text.
+DEMO Vitamin C 100mg,04-3012,Demo Life Sciences Ltd,B64305,3210094349284,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Cetirizine 10mg,A4-92642,Sample Remedies Ltd,B24611,ABC123456789,suspicious,Synthetic demonstration record; injected issue: bad_barcode.
+DEMO Amoxicillin 500mg,04-5582,Demo Life Sciences Ltd,,1160748632576,suspicious,Synthetic demonstration record; injected issue: bad_batch.
+DEMO @@@ 500mg,A11-5952,Example Laboratories Ltd,B74371,9153119969359,suspicious,Synthetic demonstration record; injected issue: odd_text.
+DEMO Paracetamol 500mg,A4-42307,Demo Pharma Nigeria Ltd,B86480,6524454302280,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Metronidazole 400mg,A11-7325,Demo Life Sciences Ltd,B55158,7657930239094,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Metronidazole 400mg,A4-31908,Example Healthcare Ltd,B86407,5252218098079,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Zinc 20mg,04-4392,Sample Health Nigeria Ltd,B21738,4320896979702,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Amoxicillin 500mg,A1--77,Example Laboratories Ltd,B51752,9483115602828,suspicious,Synthetic demonstration record; injected issue: bad_nafdac.
+DEMO Zinc 20mg,A4-59392,Sample Health Nigeria Ltd,B69100,8665499644771,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Cetirizine 10mg,04-5880,Sample Remedies Ltd,,3321046082329,suspicious,Synthetic demonstration record; injected issue: bad_batch.
+DEMO Vitamin C 100mg,04-4735,Demo Pharma Nigeria Ltd,B70381,4057623529740,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Vitamin C 100mg,A11-8610,Example Laboratories Ltd,B77838,3566101603736,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Paracetomol 500mg,A11-6856,Demo Life Sciences Ltd,B38573,5017505429292,suspicious,Synthetic demonstration record; injected issue: odd_text.
+DEMO Paracetamol 500mg,A11-2374,Sample Remedies Ltd,B89657,5403386717476,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Amoxicillin 500mg,A11-2889,Example Laboratories Ltd,B21942,3579343884224,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Vitamin C 100mg,A4-4172,Example Laboratories Ltd,B47291,5696887912199,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Metronidazole 400mg,A4-41918,Demo Life Sciences Ltd,B37551,6862014988659,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Paracetamol 500mg,04-8291,Sample Remedies Ltd,B32346,5108925906946,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Paracetamol 500mg,A4-63609,Sample Remedies Ltd,B86218,6341640331979,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Cetirizine 10mg,A11-8044,Example Laboratories Ltd,B41034,4791521149148,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Ibuprofen 200mg,FAKE-0001,Sample Health Nigeria Ltd,B39215,6412354865301,suspicious,Synthetic demonstration record; injected issue: bad_nafdac.
+DEMO Paracetomol 500mg,04-7633,Example Laboratories Ltd,B80879,6691195456896,suspicious,Synthetic demonstration record; injected issue: odd_text.
+DEMO Artemether 20mg,A4-10095,Sample Remedies Ltd,B96384,2320689098868,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Zinc 20mg,A11-1028,Example Healthcare Ltd,B-XYZ,5072571383719,suspicious,Synthetic demonstration record; injected issue: bad_batch.
+DEMO Amoxicillin 500mg,A4-72872,Sample Health Nigeria Ltd,B36197,2178291809318,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Zinc 20mg,A4-42941,Sample Health Nigeria Ltd,B33922,5536575159080,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Paracetamol 500mg,A4-88207,Sample Health Nigeria Ltd,B75729,9740216366219,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Cetirizine 10mg,A4-85691,Example Laboratories Ltd,B87356,5034271190983,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Ibuprofen 200mg,A4-70969,Sample Remedies Ltd,B39627,9788743597735,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Artemether 20mg,04-7119,Example Healthcare Ltd,B12796,4526539389190,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Vitamin C 100mg,04-4604,Example Healthcare Ltd,B55625,3371278853703,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Artemether 20mg,A11-8672,Example Healthcare Ltd,B74506,5198583368244,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Paracetamol 500mg,A11-7670,Demo Life Sciences Ltd,B33923,9100821503292,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Paracetamol 500mg,04-7723,Demo Life Sciences Ltd,B54513,2115442489967,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Artemether 20mg,04-2359,Demo Pharma Nigeria Ltd,B36700,9432165593177,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Metronidazole 400mg,A4-17122,Sample Remedies Ltd,B74222,9935271615433,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Paracetamol 500mg,A4-35419,Demo Life Sciences Ltd,B84285,2601212394665,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Paracetamol 500mg,04-1974,Demo Pharma Nigeria Ltd,B93489,3381168500391,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Ibuprofen 200mg,A11-3456,Example Healthcare Ltd,B40206,1295289995479,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Amoxicillin 500mg,A4-33464,Sample Health Nigeria Ltd,B44075,4466509636203,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Artemether 20mg,A4/ABC,Demo Pharma Nigeria Ltd,B64384,2819028701407,suspicious,Synthetic demonstration record; injected issue: bad_nafdac.
+DEMO Zinc 20mg,04-3830,Sample Remedies Ltd,B93566,5537974199839,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Paracetomol 500mg,A11-4908,Example Laboratories Ltd,B16120,8598451218241,suspicious,Synthetic demonstration record; injected issue: odd_text.
+DEMO Ibuprofen 200mg,A11-9342,Example Laboratories Ltd,B82575,999999999999999,suspicious,Synthetic demonstration record; injected issue: bad_barcode.
+DEMO Vitamin C 100mg,A11-7018,Example Laboratories Ltd,B13266,6906066832944,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Ibuprofen 200mg,A11-7766,Example Laboratories Ltd,B81929,ABC123456789,suspicious,Synthetic demonstration record; injected issue: bad_barcode.
+DEMO Zinc 20mg,A11-9739,Sample Remedies Ltd,B86660,5033944788140,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Vitamin C 100mg,04-9042,Sample Health Nigeria Ltd,B48258,8914705601388,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Zinc 20mg,A11-5209,Sample Remedies Ltd,B78126,5522608444015,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Artemether 20mg,A4-57012,Sample Remedies Ltd,B55240,2366215597709,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Amoxcillin 500mg,A11-8061,Sample Remedies Ltd,B53497,3310495853816,suspicious,Synthetic demonstration record; injected issue: odd_text.
+DEMO Zinc 20mg,A4-17827,Demo Life Sciences Ltd,B85431,2278935332664,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Amoxicillin 500mg,04-2036,Example Laboratories Ltd,???,3371043829211,suspicious,Synthetic demonstration record; injected issue: bad_batch.
+DEMO Cetirizine 10mg,A11-8342,Sample Remedies Ltd,B74892,1529636835991,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Paracetamol 500mg,A4-12748,Demo Pharma Nigeria Ltd,???,3327014603338,suspicious,Synthetic demonstration record; injected issue: bad_batch.
+DEMO Zinc 20mg,A11-6288,Example Healthcare Ltd,B90524,2673769778881,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Artemether 20mg,A4-72430,Example Laboratories Ltd,B54188,2406621897648,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Zinc 20mg,04-9300,Example Laboratories Ltd,B50981,8852785742335,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Zinc 20mg,999999,Demo Pharma Nigeria Ltd,B90842,9366689689517,suspicious,Synthetic demonstration record; injected issue: bad_nafdac.
+DEMO Artemether 20mg,A11-2710,Example Healthcare Ltd,B41964,5072052113512,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Cetirizine 10mg,A11-6318,Sample Health Nigeria Ltd,B87306,7347451685298,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Paracetamol 500mg,A11-8191,Demo Pharma Nigeria Ltd,B68835,999999999999999,suspicious,Synthetic demonstration record; injected issue: bad_barcode.
+DEMO Zinc 20mg,04-9447,Example Laboratories Ltd,B46199,2228234986400,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Artemether 20mg,A4-37518,Sample Health Nigeria Ltd,B58345,3671816369566,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Cetirizine 10mg,A4-31417,Example Healthcare Ltd,B69812,2772635883580,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Metronidazole 400mg,04-7945,Example Healthcare Ltd,B44933,4108450538525,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Paracetamol 500mg,A4-13168,Sample Remedies Ltd,B36086,9695823628312,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Zinc 20mg,04-7284,Sample Health Nigeria Ltd,B81429,1528468134851,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Cetirizine 10mg,A4-3985,Sample Health Nigeria Ltd,B82041,1835069087140,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Amoxcillin 500mg,04-6382,Example Laboratories Ltd,B77636,5569092977155,suspicious,Synthetic demonstration record; injected issue: odd_text.
+DEMO Paracetomol 500mg,A11-1327,Demo Life Sciences Ltd,B50164,8582095013073,suspicious,Synthetic demonstration record; injected issue: odd_text.
+DEMO Cetirizine 10mg,A4-3032,Example Laboratories Ltd,B29464,12345,suspicious,Synthetic demonstration record; injected issue: bad_barcode.
+DEMO Zinc 20mg,04-5452,Sample Remedies Ltd,B73408,2839235906904,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Zinc 20mg,A11-9747,Example Laboratories Ltd,B78778,2798154375922,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Amoxicillin 500mg,A4-69716,Example Laboratories Ltd,B62807,3768656368816,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Paracetamol 500mg,04-7564,Demo Pharma Nigeria Ltd,B75562,1388577025511,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Zinc 20mg,04-8850,Sample Health Nigeria Ltd,B38181,5244761715618,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Vitamin C 100mg,A11-6382,Demo Pharma Nigeria Ltd,B39217,5695427927672,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Metronidazole 400mg,04-1027,Sample Health Nigeria Ltd,B65599,1708689608946,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Amoxicillin 500mg,A11-7875,Example Laboratories Ltd,B41690,3587257166935,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Ibuprofen 200mg,04-1239,Sample Remedies Ltd,B65391,1293331989223,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Vitamin C 100mg,A11-2100,Example Laboratories Ltd,B17224,12345,suspicious,Synthetic demonstration record; injected issue: bad_barcode.
+DEMO Amoxicillin 500mg,A4-31945,Demo Life Sciences Ltd,B47845,6223944674825,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Ibuprofen 200mg,FAKE-0001,Example Healthcare Ltd,B22472,4855533812572,suspicious,Synthetic demonstration record; injected issue: bad_nafdac.
+DEMO Ibuprofen 200mg,A4-70051,Sample Remedies Ltd,B60003,1622259505065,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Paracetamol 500mg,NAFDAC-XYZ-000,Demo Life Sciences Ltd,B75508,3592539718498,suspicious,Synthetic demonstration record; injected issue: bad_nafdac.
+DEMO Zinc 20mg,04-8993,Sample Health Nigeria Ltd,B73677,1800358687452,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Paracetamol 500mg,04-4835,Demo Life Sciences Ltd,B86825,3112331401466,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Artemether 20mg,A4-15862,Example Laboratories Ltd,B89782,000000000000,suspicious,Synthetic demonstration record; injected issue: bad_barcode.
+DEMO Ibuprofen 200mg,A4/ABC,Sample Health Nigeria Ltd,B14657,5298838926156,suspicious,Synthetic demonstration record; injected issue: bad_nafdac.
+DEMO Zinc 20mg,A11-4148,Example Laboratories Ltd,B78687,4767173122252,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Cetirizine 10mg,04-3257,Example Healthcare Ltd,B51600,3942085166892,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Ibuprofen 200mg,A11-6168,Sample Remedies Ltd,B13662,8848938718031,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Amoxicillin 500mg,A4-15909,Sample Remedies Ltd,B72446,8628998211980,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Cetirizine 10mg,A1--77,Demo Pharma Nigeria Ltd,B20216,7860262134730,suspicious,Synthetic demonstration record; injected issue: bad_nafdac.
+DEMO Paracetamol 500mg,A4-75850,Sample Remedies Ltd,B77325,1646759492568,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Ibuprofen 200mg,FAKE-0001,Sample Remedies Ltd,B60505,6356704169128,suspicious,Synthetic demonstration record; injected issue: bad_nafdac.
+DEMO Artemether 20mg,A4-60047,Sample Remedies Ltd,B27054,2115333034781,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Amoxcillin 500mg,A11-3225,Example Laboratories Ltd,B72256,9032873453154,suspicious,Synthetic demonstration record; injected issue: odd_text.
+DEMO Cetirizine 10mg,04-9176,Example Laboratories Ltd,B,3968068415963,suspicious,Synthetic demonstration record; injected issue: bad_batch.
+DEMO Vitamin C 100mg,A4-39583,Sample Remedies Ltd,B27723,5384038779247,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Paracetomol 500mg,A11-1884,Sample Health Nigeria Ltd,B57486,1606368746196,suspicious,Synthetic demonstration record; injected issue: odd_text.
+DEMO Ibuprofen 200mg,NAFDAC-XYZ-000,Example Laboratories Ltd,B85405,9102502896537,suspicious,Synthetic demonstration record; injected issue: bad_nafdac.
+DEMO Paracetamol 500mg,A11-12X,Demo Pharma Nigeria Ltd,B72265,6684656879541,suspicious,Synthetic demonstration record; injected issue: bad_nafdac.
+DEMO Zinc 20mg,A11-9611,Example Laboratories Ltd,,3902169867235,suspicious,Synthetic demonstration record; injected issue: bad_batch.
+DEMO Cetirizine 10mg,04-5485,Example Healthcare Ltd,B69790,12345,suspicious,Synthetic demonstration record; injected issue: bad_barcode.
+DEMO Paracetamol 500mg,A4-6751,Example Healthcare Ltd,B72197,5332378575354,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Paracetamol 500mg,A4-66075,Sample Remedies Ltd,B46384,6246804358589,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Cetirizine 10mg,04-5837,Example Laboratories Ltd,,8112188398504,suspicious,Synthetic demonstration record; injected issue: bad_batch.
+DEMO Cetirizine 10mg,04-8856,Example Laboratories Ltd,B19107,3458408866529,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Cetirizine 10mg,A11-1134,Example Laboratories Ltd,B39789,6330474553999,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Metronidazole 400mg,A11-4046,Sample Health Nigeria Ltd,B84468,6341106453309,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Metronidazole 400mg,04-3382,Sample Remedies Ltd,B85356,7509882978703,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Artemether 20mg,A11-4360,Example Healthcare Ltd,B14534,2287066611937,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Zinc 20mg,A4-23359,Sample Health Nigeria Ltd,B44352,3113561469332,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Paracetomol 500mg,04-6160,Demo Pharma Nigeria Ltd,B83414,4450085140694,suspicious,Synthetic demonstration record; injected issue: odd_text.
+DEMO Zinc 20mg,04-9696,Demo Life Sciences Ltd,B91112,4619242674131,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Zinc 20mg,A4-21962,Sample Health Nigeria Ltd,B89529,5699273024880,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Metronidazole 400mg,04-9553,Example Laboratories Ltd,B71066,ABC123456789,suspicious,Synthetic demonstration record; injected issue: bad_barcode.
+DEMO Ibuprofen 200mg,04-1505,Example Laboratories Ltd,B-XYZ,1479925764400,suspicious,Synthetic demonstration record; injected issue: bad_batch.
+DEMO Ibuprofen 200mg,A4-26157,Demo Life Sciences Ltd,B89247,4777888303888,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Paracetamol 500mg,A11-3040,Example Laboratories Ltd,B30945,8529766717658,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Zinc 20mg,A11-8272,Demo Life Sciences Ltd,B99533,2468860162459,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Artemether 20mg,04-9219,Example Laboratories Ltd,B66353,9209848063677,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Amoxcillin 500mg,A4-64281,Sample Health Nigeria Ltd,B95263,6681573255754,suspicious,Synthetic demonstration record; injected issue: odd_text.
+DEMO Metronidazole 400mg,A11-8032,Demo Life Sciences Ltd,B11483,9622833212444,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Amoxicillin 500mg,A11-1000,Sample Remedies Ltd,B39687,5587611938887,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Vitamin C 100mg,04-4377,Demo Life Sciences Ltd,B40574,3248434790287,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Paracetamol 500mg,A11-5950,Sample Health Nigeria Ltd,B49986,3876990108643,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Cetirizine 10mg,A11-5938,Example Healthcare Ltd,B54934,000000000000,suspicious,Synthetic demonstration record; injected issue: bad_barcode.
+DEMO Zinc 20mg,A11-8341,Demo Pharma Nigeria Ltd,B31447,5173477551968,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Cetirizine 10mg,04-6434,Demo Life Sciences Ltd,B71047,7720585433541,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Artemether 20mg,NAFDAC-XYZ-000,Sample Remedies Ltd,B52885,1899566701970,suspicious,Synthetic demonstration record; injected issue: bad_nafdac.
+DEMO Zinc 20mg,04-4330,Sample Remedies Ltd,B11422,000000000000,suspicious,Synthetic demonstration record; injected issue: bad_barcode.
+DEMO Amoxicillin 500mg,04-2241,Demo Life Sciences Ltd,B33543,8730696247240,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Zinc 20mg,04-2751,Sample Remedies Ltd,B12341,8525797758619,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Artemether 20mg,A4-20815,Demo Pharma Nigeria Ltd,B64179,4009233040456,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Paracetomol 500mg,A4-86442,Demo Pharma Nigeria Ltd,B46212,7908949294287,suspicious,Synthetic demonstration record; injected issue: odd_text.
+DEMO Ibuprofen 200mg,04-9429,Example Healthcare Ltd,B75974,1798610437070,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Zinc 20mg,A4-70854,Demo Life Sciences Ltd,12,4700828593439,suspicious,Synthetic demonstration record; injected issue: bad_batch.
+DEMO Vitamin C 100mg,A11-8078,Demo Pharma Nigeria Ltd,B19165,6527789231891,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Metronidazole 400mg,A4-31836,Demo Pharma Nigeria Ltd,12,8979810023149,suspicious,Synthetic demonstration record; injected issue: bad_batch.
+DEMO Paracetamol 500mg,A4-82482,Example Healthcare Ltd,B22168,999999999999999,suspicious,Synthetic demonstration record; injected issue: bad_barcode.
+DEMO Zinc 20mg,A4-93249,Sample Remedies Ltd,B88972,9636366358534,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Zinc 20mg,A4-6915,Demo Life Sciences Ltd,B23431,6043365063710,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Artemether 20mg,04-8988,Example Laboratories Ltd,B31718,1741851905114,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Cetirizine 10mg,A4-61899,Demo Life Sciences Ltd,B72905,4857336264257,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Amoxcillin 500mg,04-9926,Example Healthcare Ltd,B84063,2785446669533,suspicious,Synthetic demonstration record; injected issue: odd_text.
+DEMO Artemether 20mg,04-8187,Sample Health Nigeria Ltd,B33833,12345,suspicious,Synthetic demonstration record; injected issue: bad_barcode.
+DEMO Metronidazole 400mg,A11-8324,Example Healthcare Ltd,B86170,9937889764457,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Vitamin C 100mg,A4-41501,Example Laboratories Ltd,B16049,9342540997591,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Cetirizine 10mg,A4-91334,Demo Life Sciences Ltd,???,3031976746596,suspicious,Synthetic demonstration record; injected issue: bad_batch.
+DEMO Cetirizine 10mg,A4-7941,Example Healthcare Ltd,B26487,000000000000,suspicious,Synthetic demonstration record; injected issue: bad_barcode.
+DEMO Cetirizine 10mg,A11-4587,Sample Remedies Ltd,B52054,6528536654243,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Vitamin C 100mg,A4-78613,Sample Remedies Ltd,B37835,5508848899285,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Ibuprofen 200mg,04-3457,Example Laboratories Ltd,,4072406447630,suspicious,Synthetic demonstration record; injected issue: bad_batch.
+DEMO Paracetamol 500mg,A11-7680,Demo Life Sciences Ltd,B69865,7652550897339,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Metronidazole 400mg,A4-6992,Example Healthcare Ltd,B32960,999999999999999,suspicious,Synthetic demonstration record; injected issue: bad_barcode.
+DEMO @@@ 500mg,A4-4182,Sample Health Nigeria Ltd,B54641,2492794267509,suspicious,Synthetic demonstration record; injected issue: odd_text.
+DEMO Vitamin C 100mg,A11-4490,Sample Health Nigeria Ltd,B88365,7198769914838,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Metronidazole 400mg,A11-3069,Example Laboratories Ltd,???,5215647876540,suspicious,Synthetic demonstration record; injected issue: bad_batch.
+DEMO Amoxicillin 500mg,A11-3246,Demo Life Sciences Ltd,B67851,9747949084314,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Ibuprofen 200mg,04-5733,Demo Pharma Nigeria Ltd,B12676,3037577863701,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Zinc 20mg,04-8266,Sample Remedies Ltd,B11092,6008374814596,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Artemether 20mg,04-8061,Sample Remedies Ltd,B70081,ABC123456789,suspicious,Synthetic demonstration record; injected issue: bad_barcode.
+DEMO Amoxicillin 500mg,04-3688,Demo Pharma Nigeria Ltd,B45410,9036144958263,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Amoxicillin 500mg,A4-80140,Demo Life Sciences Ltd,B13052,3448406702598,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Amoxicillin 500mg,04-1837,Demo Pharma Nigeria Ltd,B57665,7360263291818,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Artemether 20mg,A11-5264,Sample Health Nigeria Ltd,B58020,7883308005499,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Ibuprofen 200mg,04-1296,Example Healthcare Ltd,B28564,2679958933258,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Zinc 20mg,04-6104,Example Healthcare Ltd,B13157,8536451304747,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Zinc 20mg,04-6103,Sample Remedies Ltd,B-XYZ,8827158661361,suspicious,Synthetic demonstration record; injected issue: bad_batch.
+DEMO Vitamin C 100mg,04-1241,Demo Life Sciences Ltd,B77598,1904698012750,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Paracetamol 500mg,FAKE-0001,Demo Life Sciences Ltd,B95031,5007389193994,suspicious,Synthetic demonstration record; injected issue: bad_nafdac.
+DEMO Ibuprofen 200mg,NAFDAC-XYZ-000,Sample Health Nigeria Ltd,B35585,8195613451463,suspicious,Synthetic demonstration record; injected issue: bad_nafdac.
+DEMO Paracetamol 500mg,A4-11047,Example Healthcare Ltd,???,4192527890768,suspicious,Synthetic demonstration record; injected issue: bad_batch.
+DEMO Cetirizine 10mg,A1--77,Demo Pharma Nigeria Ltd,B52825,1929905719376,suspicious,Synthetic demonstration record; injected issue: bad_nafdac.
+DEMO Artemether 20mg,A4-58259,Example Healthcare Ltd,B,7226965834352,suspicious,Synthetic demonstration record; injected issue: bad_batch.
+DEMO @@@ 500mg,A11-9895,Sample Remedies Ltd,B58509,1676254671389,suspicious,Synthetic demonstration record; injected issue: odd_text.
+DEMO Ibuprofen 200mg,A4-68268,Demo Pharma Nigeria Ltd,B62169,6640894578943,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Ibuprofen 200mg,04-5059,Example Laboratories Ltd,B40323,5432166253003,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Cetirizine 10mg,A4-73371,Demo Life Sciences Ltd,B20712,3202885392004,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Ibuprofen 200mg,A1--77,Example Healthcare Ltd,B91316,1404678182489,suspicious,Synthetic demonstration record; injected issue: bad_nafdac.
+DEMO Metronidazole 400mg,A4-28970,Sample Remedies Ltd,B13595,1254630750743,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Ibuprofen 200mg,A4-67816,Demo Life Sciences Ltd,B32930,9309813060791,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Amoxcillin 500mg,04-1511,Demo Life Sciences Ltd,B14864,9602744807699,suspicious,Synthetic demonstration record; injected issue: odd_text.
+DEMO Amoxicillin 500mg,04-8743,Example Healthcare Ltd,B84754,7627186874322,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Vitamin C 100mg,A4-95371,Demo Life Sciences Ltd,B51651,000000000000,suspicious,Synthetic demonstration record; injected issue: bad_barcode.
+DEMO Vitamin C 100mg,A4-43866,Example Healthcare Ltd,B57052,000000000000,suspicious,Synthetic demonstration record; injected issue: bad_barcode.
+DEMO Vitamin C 100mg,04-3092,Example Laboratories Ltd,B32081,2884845533134,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Cetirizine 10mg,04-3494,Demo Pharma Nigeria Ltd,B16788,4388224909656,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Vitamin C 100mg,04-5171,Example Healthcare Ltd,B83353,000000000000,suspicious,Synthetic demonstration record; injected issue: bad_barcode.
+DEMO Zinc 20mg,04-7156,Sample Remedies Ltd,B27983,5121076327762,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Cetirizine 10mg,04-2114,Example Healthcare Ltd,B38594,1938251946519,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Ibuprofen 200mg,A4-75261,Sample Remedies Ltd,B68620,9376400630849,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Cetirizine 10mg,04-2066,Sample Health Nigeria Ltd,B51195,1182350153837,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Zinc 20mg,A11-5833,Example Healthcare Ltd,B20746,4611757018439,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Paracetamol 500mg,A11-3961,Demo Pharma Nigeria Ltd,B24568,1842097470479,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Vitamin C 100mg,999999,Demo Life Sciences Ltd,B39786,1218064186788,suspicious,Synthetic demonstration record; injected issue: bad_nafdac.
+DEMO Paracetamol 500mg,A4-64899,Example Laboratories Ltd,12,2318921438591,suspicious,Synthetic demonstration record; injected issue: bad_batch.
+DEMO Cetirizine 10mg,A11-8815,Sample Health Nigeria Ltd,B75981,9770508032879,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Cetirizine 10mg,A11-4847,Demo Life Sciences Ltd,B47807,999999999999999,suspicious,Synthetic demonstration record; injected issue: bad_barcode.
+DEMO Vitamin C 100mg,A4-41348,Sample Remedies Ltd,B70018,9711160583349,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Zinc 20mg,A4-53804,Sample Remedies Ltd,B61102,7339571910796,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Amoxicillin 500mg,A4-26268,Example Laboratories Ltd,B20633,2394866602954,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Ibuprofen 200mg,A11-8861,Sample Health Nigeria Ltd,,7379758705966,suspicious,Synthetic demonstration record; injected issue: bad_batch.
+DEMO Paracetamol 500mg,999999,Example Laboratories Ltd,B64342,6308109854702,suspicious,Synthetic demonstration record; injected issue: bad_nafdac.
+DEMO Cetirizine 10mg,A4-21555,Sample Remedies Ltd,B42866,7275540663879,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Zinc 20mg,04-7639,Demo Life Sciences Ltd,B74625,7001499571213,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Artemether 20mg,A11-9878,Example Laboratories Ltd,B17729,3201644194831,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Ibuprofen 200mg,04-7698,Example Healthcare Ltd,B21776,2517803936244,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Vitamin C 100mg,04-9369,Demo Pharma Nigeria Ltd,,8185157314837,suspicious,Synthetic demonstration record; injected issue: bad_batch.
+DEMO Paracetamol 500mg,A11-2767,Example Laboratories Ltd,B26909,9220429959057,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Artemether 20mg,04-9225,Example Laboratories Ltd,B24132,1106281793611,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Amoxicillin 500mg,04-2017,Example Laboratories Ltd,B69032,1906853690092,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Artemether 20mg,A11-6164,Sample Health Nigeria Ltd,B58864,3884093970070,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Zinc 20mg,A4-26865,Example Healthcare Ltd,B32978,6857310385395,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Zinc 20mg,04-2961,Sample Health Nigeria Ltd,12,8375751746958,suspicious,Synthetic demonstration record; injected issue: bad_batch.
+DEMO Cetirizine 10mg,A4-72091,Sample Health Nigeria Ltd,B25695,3503954365492,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Cetirizine 10mg,04-5939,Example Healthcare Ltd,B15971,3171641065205,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Zinc 20mg,A11-3785,Demo Pharma Nigeria Ltd,B,8117786177768,suspicious,Synthetic demonstration record; injected issue: bad_batch.
+DEMO Cetirizine 10mg,A1--77,Sample Health Nigeria Ltd,B60670,5255984639387,suspicious,Synthetic demonstration record; injected issue: bad_nafdac.
+DEMO Ibuprofen 200mg,A11-5205,Sample Health Nigeria Ltd,B77759,8462990270827,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Amoxicillin 500mg,A4-53878,Example Healthcare Ltd,,1760328061093,suspicious,Synthetic demonstration record; injected issue: bad_batch.
+DEMO Amoxcillin 500mg,A4-76444,Demo Pharma Nigeria Ltd,B78233,3636423158534,suspicious,Synthetic demonstration record; injected issue: odd_text.
+DEMO Metronidazole 400mg,NAFDAC-XYZ-000,Demo Life Sciences Ltd,B35074,7380500671193,suspicious,Synthetic demonstration record; injected issue: bad_nafdac.
+DEMO Cetirizine 10mg,A4/ABC,Example Healthcare Ltd,B49219,4539251209605,suspicious,Synthetic demonstration record; injected issue: bad_nafdac.
+DEMO Vitamin C 100mg,A4-27426,Demo Pharma Nigeria Ltd,B61365,3827393992704,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Ibuprofen 200mg,A4-7381,Sample Health Nigeria Ltd,???,4401898058774,suspicious,Synthetic demonstration record; injected issue: bad_batch.
+DEMO Artemether 20mg,A4-91233,Sample Remedies Ltd,,9868281059513,suspicious,Synthetic demonstration record; injected issue: bad_batch.
+DEMO Artemether 20mg,04-7881,Example Healthcare Ltd,B-XYZ,4417473938334,suspicious,Synthetic demonstration record; injected issue: bad_batch.
+DEMO Vitamin C 100mg,A11-6782,Sample Remedies Ltd,B77455,9778638914435,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Metronidazole 400mg,A11-8423,Sample Health Nigeria Ltd,B81028,8979021222995,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Metronidazole 400mg,A4-62116,Demo Pharma Nigeria Ltd,B80454,6531455973271,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Amoxicillin 500mg,A11-8220,Demo Pharma Nigeria Ltd,B85939,3429094095606,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Vitamin C 100mg,A11-5013,Demo Pharma Nigeria Ltd,B32002,8945283989300,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Zinc 20mg,A11-3850,Sample Remedies Ltd,B68611,7584643138871,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Paracetamol 500mg,FAKE-0001,Demo Life Sciences Ltd,B96760,8341872504357,suspicious,Synthetic demonstration record; injected issue: bad_nafdac.
+DEMO Paracetamol 500mg,A4-77540,Sample Health Nigeria Ltd,B69201,6498628105749,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Artemether 20mg,04-8372,Example Healthcare Ltd,B29975,999999999999999,suspicious,Synthetic demonstration record; injected issue: bad_barcode.
+DEMO Cetirizine 10mg,A11-8194,Example Healthcare Ltd,B93689,5082527606091,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Zinc 20mg,04-2162,Sample Remedies Ltd,B88733,ABC123456789,suspicious,Synthetic demonstration record; injected issue: bad_barcode.
+DEMO Zinc 20mg,A11-2428,Demo Pharma Nigeria Ltd,B33851,4512485275950,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Amoxicillin 500mg,04-3614,Sample Health Nigeria Ltd,12,2758776295695,suspicious,Synthetic demonstration record; injected issue: bad_batch.
+DEMO Paracetamol 500mg,A11-1212,Example Laboratories Ltd,B62168,6817843342523,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Zinc 20mg,A4-1462,Example Healthcare Ltd,B-XYZ,3296678610641,suspicious,Synthetic demonstration record; injected issue: bad_batch.
+DEMO Vitamin C 100mg,A11-9977,Demo Life Sciences Ltd,B23631,7059954766616,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Artemether 20mg,04-5087,Demo Life Sciences Ltd,B24596,3991394215325,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Paracetamol 500mg,A11-6618,Example Healthcare Ltd,B71508,5875647144968,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Metronidazole 400mg,A11-7228,Example Laboratories Ltd,,4841160594978,suspicious,Synthetic demonstration record; injected issue: bad_batch.
+DEMO Artemether 20mg,04-1641,Example Laboratories Ltd,B55539,8587524168690,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Ibuprofen 200mg,A4-99604,Demo Pharma Nigeria Ltd,B43888,3730038694139,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Paracetomol 500mg,A11-7404,Demo Pharma Nigeria Ltd,B34412,6755449919414,suspicious,Synthetic demonstration record; injected issue: odd_text.
+DEMO Ibuprofen 200mg,A11-4184,Example Healthcare Ltd,B26541,1007421551512,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Ibuprofen 200mg,A11-8670,Demo Pharma Nigeria Ltd,B45629,3985743812132,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Paracetamol 500mg,FAKE-0001,Example Laboratories Ltd,B92441,3808924744182,suspicious,Synthetic demonstration record; injected issue: bad_nafdac.
+DEMO Zinc 20mg,A11-1865,Demo Pharma Nigeria Ltd,,6407244002143,suspicious,Synthetic demonstration record; injected issue: bad_batch.
+DEMO Amoxicillin 500mg,04-2565,Demo Life Sciences Ltd,12,6437207846953,suspicious,Synthetic demonstration record; injected issue: bad_batch.
+DEMO Cetirizine 10mg,04-4281,Sample Health Nigeria Ltd,12,1361634153656,suspicious,Synthetic demonstration record; injected issue: bad_batch.
+DEMO Paracetamol 500mg,04-5423,Demo Pharma Nigeria Ltd,B55650,9433135007885,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Ibuprofen 200mg,NAFDAC-XYZ-000,Example Healthcare Ltd,B12360,1724904520417,suspicious,Synthetic demonstration record; injected issue: bad_nafdac.
+DEMO Ibuprofen 200mg,A4-3658,Demo Pharma Nigeria Ltd,B22896,3594867110293,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Amoxicillin 500mg,04-3311,Demo Life Sciences Ltd,B53788,6830897327964,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Cetirizine 10mg,04-3787,Demo Life Sciences Ltd,B,2388733468504,suspicious,Synthetic demonstration record; injected issue: bad_batch.
+DEMO Ibuprofen 200mg,A4-9479,Sample Health Nigeria Ltd,B76742,9354147833008,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Paracetamol 500mg,A4-35818,Example Healthcare Ltd,B15631,1985385931307,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Amoxicillin 500mg,04-8670,Example Laboratories Ltd,B97348,6311919469101,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Metronidazole 400mg,A11-3975,Example Healthcare Ltd,B41931,1116940138046,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO @@@ 500mg,A11-2250,Example Healthcare Ltd,B58526,7839337578346,suspicious,Synthetic demonstration record; injected issue: odd_text.
+DEMO Ibuprofen 200mg,A4-17638,Sample Health Nigeria Ltd,B70945,ABC123456789,suspicious,Synthetic demonstration record; injected issue: bad_barcode.
+DEMO Amoxicillin 500mg,A4-2528,Demo Pharma Nigeria Ltd,B21875,1899386280751,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Amoxicillin 500mg,04-3898,Sample Remedies Ltd,B95868,3563782213994,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Metronidazole 400mg,A4-14070,Sample Health Nigeria Ltd,B95155,9272439090398,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Paracetamol 500mg,04-3715,Sample Health Nigeria Ltd,B-XYZ,4109832926109,suspicious,Synthetic demonstration record; injected issue: bad_batch.
+DEMO Paracetamol 500mg,A4-67801,Sample Health Nigeria Ltd,B56067,3438283540476,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Paracetamol 500mg,A11-6087,Example Healthcare Ltd,B82359,1912915457689,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Amoxicillin 500mg,A11-1129,Demo Pharma Nigeria Ltd,B10400,7265047218516,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Vitamin C 100mg,04-7869,Sample Health Nigeria Ltd,B40482,3052714671607,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Artemether 20mg,A11-2559,Sample Health Nigeria Ltd,B39251,9637130972566,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Metronidazole 400mg,999999,Example Laboratories Ltd,B73892,7337070013190,suspicious,Synthetic demonstration record; injected issue: bad_nafdac.
+DEMO Vitamin C 100mg,A4-4327,Demo Life Sciences Ltd,B22787,12345,suspicious,Synthetic demonstration record; injected issue: bad_barcode.
+DEMO Artemether 20mg,A4/ABC,Demo Pharma Nigeria Ltd,B18480,2716544415904,suspicious,Synthetic demonstration record; injected issue: bad_nafdac.
+DEMO Amoxicillin 500mg,A11-6580,Sample Remedies Ltd,B13424,4900365248134,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Metronidazole 400mg,A11-9695,Example Laboratories Ltd,B62111,5424091906032,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Artemether 20mg,A4-14426,Example Laboratories Ltd,B96102,5313003516000,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Zinc 20mg,A11-12X,Sample Remedies Ltd,B38725,3303451736926,suspicious,Synthetic demonstration record; injected issue: bad_nafdac.
+DEMO Artemether 20mg,A11-3885,Demo Pharma Nigeria Ltd,B92998,1229514075641,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Paracetamol 500mg,04-6549,Demo Pharma Nigeria Ltd,B94004,9432158860203,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Vitamin C 100mg,A11-1872,Example Healthcare Ltd,B53695,7637144006725,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Paracetamol 500mg,04-7368,Example Laboratories Ltd,B38009,1112190938540,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Amoxicillin 500mg,A4-10155,Example Laboratories Ltd,B59526,8621867828024,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Ibuprofen 200mg,A11-7238,Sample Health Nigeria Ltd,B55582,12345,suspicious,Synthetic demonstration record; injected issue: bad_barcode.
+DEMO Paracetamol 500mg,A4-56710,Example Healthcare Ltd,B50557,4162147149603,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Zinc 20mg,04-8395,Example Laboratories Ltd,B36310,5686935471631,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Artemether 20mg,A11-12X,Demo Pharma Nigeria Ltd,B27269,5526957279137,suspicious,Synthetic demonstration record; injected issue: bad_nafdac.
+DEMO Ibuprofen 200mg,04-1295,Demo Pharma Nigeria Ltd,B63065,7964647851870,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Cetirizine 10mg,A11-3695,Demo Pharma Nigeria Ltd,B90512,3960492854288,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Artemether 20mg,A11-12X,Demo Life Sciences Ltd,B60453,5325482336434,suspicious,Synthetic demonstration record; injected issue: bad_nafdac.
+DEMO Ibuprofen 200mg,A4-13425,Example Healthcare Ltd,B26050,6266330394771,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Artemether 20mg,A11-4349,Example Laboratories Ltd,B39728,ABC123456789,suspicious,Synthetic demonstration record; injected issue: bad_barcode.
+DEMO Paracetamol 500mg,A11-4273,Sample Health Nigeria Ltd,B57509,8696475518357,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Cetirizine 10mg,A4-30414,Example Laboratories Ltd,B,1091164036073,suspicious,Synthetic demonstration record; injected issue: bad_batch.
+DEMO Paracetamol 500mg,04-5656,Example Healthcare Ltd,B22483,9301506165959,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Amoxicillin 500mg,A4-15127,Demo Life Sciences Ltd,???,5940802598764,suspicious,Synthetic demonstration record; injected issue: bad_batch.
+DEMO Zinc 20mg,04-3224,Demo Pharma Nigeria Ltd,B45734,9766986570824,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Metronidazole 400mg,A11-7226,Sample Health Nigeria Ltd,B93422,1673033808046,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Vitamin C 100mg,A11-5480,Demo Life Sciences Ltd,B86632,8509804769359,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Zinc 20mg,A4-25919,Demo Pharma Nigeria Ltd,B89018,8312569921450,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Zinc 20mg,A11-5859,Demo Life Sciences Ltd,B75100,6929615336260,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Cetirizine 10mg,A4-62382,Demo Life Sciences Ltd,B14894,3695612412471,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Paracetamol 500mg,999999,Example Laboratories Ltd,B74415,8652553166397,suspicious,Synthetic demonstration record; injected issue: bad_nafdac.
+DEMO Artemether 20mg,A4-53337,Example Healthcare Ltd,B69309,4623517285330,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Paracetomol 500mg,04-6062,Demo Pharma Nigeria Ltd,B88514,9318607834685,suspicious,Synthetic demonstration record; injected issue: odd_text.
+DEMO Cetirizine 10mg,A11-6056,Sample Health Nigeria Ltd,B98613,3231115208480,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Zinc 20mg,A11-3839,Example Healthcare Ltd,B49898,1063768187529,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Artemether 20mg,A11-8909,Example Laboratories Ltd,B26907,1363887382536,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Amoxicillin 500mg,04-9442,Sample Remedies Ltd,B11861,7808922670616,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Ibuprofen 200mg,A11-1315,Demo Pharma Nigeria Ltd,B72268,6033180058308,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Paracetomol 500mg,A11-1183,Sample Health Nigeria Ltd,B67091,9438087328955,suspicious,Synthetic demonstration record; injected issue: odd_text.
+DEMO Ibuprofen 200mg,A4-29531,Example Healthcare Ltd,B50602,8106023836005,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Metronidazole 400mg,04-5348,Example Laboratories Ltd,B18276,6577431410930,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Artemether 20mg,04-5970,Example Laboratories Ltd,B97007,4952909613107,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Vitamin C 100mg,A4-90995,Sample Remedies Ltd,,4891018804907,suspicious,Synthetic demonstration record; injected issue: bad_batch.
+DEMO Zinc 20mg,FAKE-0001,Example Healthcare Ltd,B60786,4979337017180,suspicious,Synthetic demonstration record; injected issue: bad_nafdac.
+DEMO Zinc 20mg,A11-7714,Demo Life Sciences Ltd,12,7747564156490,suspicious,Synthetic demonstration record; injected issue: bad_batch.
+DEMO Amoxicillin 500mg,04-8702,Demo Life Sciences Ltd,B54853,6294416991445,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Cetirizine 10mg,A11-12X,Demo Life Sciences Ltd,B43226,8347213653181,suspicious,Synthetic demonstration record; injected issue: bad_nafdac.
+DEMO Ibuprofen 200mg,04-6134,Sample Remedies Ltd,B45283,8687822560254,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Vitamin C 100mg,A4-74534,Demo Pharma Nigeria Ltd,B64996,7463582129150,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Vitamin C 100mg,A4-95947,Sample Remedies Ltd,B82893,7132354454486,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO @@@ 500mg,04-7797,Example Laboratories Ltd,B21171,9741351846418,suspicious,Synthetic demonstration record; injected issue: odd_text.
+DEMO Cetirizine 10mg,A4-61374,Sample Health Nigeria Ltd,B,5890162756813,suspicious,Synthetic demonstration record; injected issue: bad_batch.
+DEMO Ibuprofen 200mg,A4-68231,Demo Pharma Nigeria Ltd,B63616,5553679767342,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Paracetamol 500mg,A4-5823,Sample Health Nigeria Ltd,B23817,8538555635698,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Zinc 20mg,A11-8157,Demo Pharma Nigeria Ltd,B12347,000000000000,suspicious,Synthetic demonstration record; injected issue: bad_barcode.
+DEMO Amoxicillin 500mg,A4-88989,Example Laboratories Ltd,B63295,2390001791368,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Metronidazole 400mg,04-6878,Demo Life Sciences Ltd,B58640,3027230237615,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Vitamin C 100mg,A11-8666,Sample Remedies Ltd,B53206,9978831704652,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Vitamin C 100mg,A4-28756,Sample Health Nigeria Ltd,B68206,4096334514332,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Artemether 20mg,A4-43381,Demo Pharma Nigeria Ltd,B-XYZ,5484512428392,suspicious,Synthetic demonstration record; injected issue: bad_batch.
+DEMO Cetirizine 10mg,A4-30037,Example Laboratories Ltd,B64376,9140557153774,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Zinc 20mg,A4-83882,Example Healthcare Ltd,B83096,8746600256782,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Amoxicillin 500mg,04-9000,Example Healthcare Ltd,B26190,2264051425501,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Vitamin C 100mg,A11-7555,Example Healthcare Ltd,B39008,000000000000,suspicious,Synthetic demonstration record; injected issue: bad_barcode.
+DEMO Amoxicillin 500mg,04-6305,Demo Pharma Nigeria Ltd,B14087,8128209185467,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Metronidazole 400mg,A11-5357,Sample Remedies Ltd,B92361,8206416761989,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Metronidazole 400mg,A11-3068,Example Laboratories Ltd,B44966,8234944662779,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Ibuprofen 200mg,04-7682,Sample Remedies Ltd,B,1399575672195,suspicious,Synthetic demonstration record; injected issue: bad_batch.
+DEMO Artemether 20mg,A4-1416,Sample Health Nigeria Ltd,B31477,3581519992121,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Cetirizine 10mg,A4-15176,Sample Health Nigeria Ltd,B29804,9419957710652,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Amoxicillin 500mg,999999,Example Healthcare Ltd,B65122,3032005929217,suspicious,Synthetic demonstration record; injected issue: bad_nafdac.
+DEMO Artemether 20mg,A4-69758,Demo Life Sciences Ltd,B65351,9012321402815,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Vitamin C 100mg,A4/ABC,Sample Remedies Ltd,B41741,3885256562048,suspicious,Synthetic demonstration record; injected issue: bad_nafdac.
+DEMO Cetirizine 10mg,04-4071,Example Healthcare Ltd,B34975,000000000000,suspicious,Synthetic demonstration record; injected issue: bad_barcode.
+DEMO Ibuprofen 200mg,04-2825,Sample Health Nigeria Ltd,B28660,6784567577119,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Paracetamol 500mg,A4-59312,Example Laboratories Ltd,B96861,6389725330902,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Amoxcillin 500mg,A4-53902,Demo Pharma Nigeria Ltd,B61099,2949809820078,suspicious,Synthetic demonstration record; injected issue: odd_text.
+DEMO Artemether 20mg,A4-6128,Example Laboratories Ltd,B12718,8342500197938,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Metronidazole 400mg,A4-43589,Example Laboratories Ltd,B35055,4504006050324,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Ibuprofen 200mg,A4-21111,Example Laboratories Ltd,B36759,2891733127759,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Ibuprofen 200mg,A11-7069,Example Healthcare Ltd,B88530,2426770262074,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Zinc 20mg,04-3213,Demo Life Sciences Ltd,B15156,000000000000,suspicious,Synthetic demonstration record; injected issue: bad_barcode.
+DEMO Vitamin C 100mg,A4-96996,Example Healthcare Ltd,B32500,2900988949941,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Vitamin C 100mg,04-3665,Demo Pharma Nigeria Ltd,B61823,4239394079182,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Paracetamol 500mg,04-9325,Sample Remedies Ltd,B93200,8904832578043,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Cetirizine 10mg,A1--77,Example Healthcare Ltd,B35034,1480011775366,suspicious,Synthetic demonstration record; injected issue: bad_nafdac.
+DEMO Zinc 20mg,A4-59866,Sample Remedies Ltd,B75488,2660244257611,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Artemether 20mg,04-1350,Sample Remedies Ltd,B95704,6536220309895,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Amoxicillin 500mg,FAKE-0001,Demo Life Sciences Ltd,B66117,5882896639427,suspicious,Synthetic demonstration record; injected issue: bad_nafdac.
+DEMO Vitamin C 100mg,A11-4869,Example Healthcare Ltd,B36946,1426458104358,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Metronidazole 400mg,A4/ABC,Sample Health Nigeria Ltd,B17887,6166499552035,suspicious,Synthetic demonstration record; injected issue: bad_nafdac.
+DEMO @@@ 500mg,A4-88302,Demo Pharma Nigeria Ltd,B23778,3981491140775,suspicious,Synthetic demonstration record; injected issue: odd_text.
+DEMO @@@ 500mg,04-8668,Sample Health Nigeria Ltd,B26542,9930224865818,suspicious,Synthetic demonstration record; injected issue: odd_text.
+DEMO Ibuprofen 200mg,A4-17388,Sample Remedies Ltd,12,8216216349902,suspicious,Synthetic demonstration record; injected issue: bad_batch.
+DEMO @@@ 500mg,04-8193,Demo Life Sciences Ltd,B70868,4882236425843,suspicious,Synthetic demonstration record; injected issue: odd_text.
+DEMO Zinc 20mg,04-2906,Demo Life Sciences Ltd,B,7386575588972,suspicious,Synthetic demonstration record; injected issue: bad_batch.
+DEMO Vitamin C 100mg,A11-3294,Demo Life Sciences Ltd,B-XYZ,2505621055637,suspicious,Synthetic demonstration record; injected issue: bad_batch.
+DEMO Metronidazole 400mg,A4-19706,Sample Health Nigeria Ltd,B81620,4970939541501,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Paracetamol 500mg,A11-3251,Sample Health Nigeria Ltd,B,1811232838344,suspicious,Synthetic demonstration record; injected issue: bad_batch.
+DEMO Zinc 20mg,04-5603,Example Laboratories Ltd,B37861,2802437470811,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Ibuprofen 200mg,04-5329,Sample Remedies Ltd,B24230,5181423284736,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Artemether 20mg,A11-9892,Example Healthcare Ltd,B35032,9350631116449,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Vitamin C 100mg,A11-4828,Example Healthcare Ltd,B46349,3238213427090,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Ibuprofen 200mg,A4-65913,Sample Health Nigeria Ltd,B56129,999999999999999,suspicious,Synthetic demonstration record; injected issue: bad_barcode.
+DEMO Artemether 20mg,A4-49638,Sample Health Nigeria Ltd,B-XYZ,8360343345196,suspicious,Synthetic demonstration record; injected issue: bad_batch.
+DEMO Metronidazole 400mg,A11-5422,Demo Life Sciences Ltd,B,7822189748352,suspicious,Synthetic demonstration record; injected issue: bad_batch.
+DEMO Artemether 20mg,A1--77,Sample Health Nigeria Ltd,B47656,5723300688482,suspicious,Synthetic demonstration record; injected issue: bad_nafdac.
+DEMO Zinc 20mg,A1--77,Demo Life Sciences Ltd,B21509,4141038029998,suspicious,Synthetic demonstration record; injected issue: bad_nafdac.
+DEMO Metronidazole 400mg,A11-2070,Example Healthcare Ltd,B10839,2381695128380,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Metronidazole 400mg,A11-3461,Demo Life Sciences Ltd,B68401,8005244237003,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Amoxicillin 500mg,A11-3457,Demo Pharma Nigeria Ltd,B34585,3811490309818,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Paracetamol 500mg,04-3300,Demo Pharma Nigeria Ltd,12,6994895982107,suspicious,Synthetic demonstration record; injected issue: bad_batch.
+DEMO Zinc 20mg,A11-7478,Demo Life Sciences Ltd,B85649,6076646370325,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Vitamin C 100mg,A11-7171,Example Healthcare Ltd,B45122,4850324284266,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Ibuprofen 200mg,04-6016,Sample Health Nigeria Ltd,B66958,6649768862117,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Paracetamol 500mg,A11-3950,Demo Life Sciences Ltd,B75063,5904846456205,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Ibuprofen 200mg,04-4723,Sample Health Nigeria Ltd,B-XYZ,5283211911917,suspicious,Synthetic demonstration record; injected issue: bad_batch.
+DEMO @@@ 500mg,A11-7845,Example Healthcare Ltd,B36127,4958679705324,suspicious,Synthetic demonstration record; injected issue: odd_text.
+DEMO Vitamin C 100mg,A11-6472,Example Healthcare Ltd,,6784527832119,suspicious,Synthetic demonstration record; injected issue: bad_batch.
+DEMO Zinc 20mg,A11-1659,Sample Health Nigeria Ltd,???,7590872039637,suspicious,Synthetic demonstration record; injected issue: bad_batch.
+DEMO Cetirizine 10mg,A11-4991,Sample Remedies Ltd,B55572,4300687890369,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Cetirizine 10mg,04-7355,Example Healthcare Ltd,B29789,8238626792889,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Vitamin C 100mg,A11-4093,Demo Pharma Nigeria Ltd,B11431,12345,suspicious,Synthetic demonstration record; injected issue: bad_barcode.
+DEMO Zinc 20mg,A11-6580,Demo Life Sciences Ltd,B39170,6074253082158,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Metronidazole 400mg,A4-81853,Sample Remedies Ltd,B22602,2833204141721,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Paracetamol 500mg,A11-9575,Demo Life Sciences Ltd,B99912,4710796541714,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Amoxicillin 500mg,A4-71575,Demo Pharma Nigeria Ltd,B83445,999999999999999,suspicious,Synthetic demonstration record; injected issue: bad_barcode.
+DEMO Vitamin C 100mg,FAKE-0001,Example Healthcare Ltd,B97698,1353874447299,suspicious,Synthetic demonstration record; injected issue: bad_nafdac.
+DEMO Ibuprofen 200mg,A4-52069,Sample Health Nigeria Ltd,B47940,000000000000,suspicious,Synthetic demonstration record; injected issue: bad_barcode.
+DEMO Cetirizine 10mg,A11-4600,Sample Health Nigeria Ltd,B93214,6580728159878,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Ibuprofen 200mg,A11-12X,Demo Pharma Nigeria Ltd,B59113,2290150631885,suspicious,Synthetic demonstration record; injected issue: bad_nafdac.
+DEMO Metronidazole 400mg,A11-12X,Example Healthcare Ltd,B57730,4369310502647,suspicious,Synthetic demonstration record; injected issue: bad_nafdac.
+DEMO Vitamin C 100mg,A4-3965,Sample Health Nigeria Ltd,B57472,8378966096376,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Vitamin C 100mg,A11-3743,Example Laboratories Ltd,B87888,4477365426381,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Vitamin C 100mg,A4-49436,Demo Life Sciences Ltd,B92864,6944150307793,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Amoxicillin 500mg,A1--77,Sample Health Nigeria Ltd,B88014,4114007805141,suspicious,Synthetic demonstration record; injected issue: bad_nafdac.
+DEMO Artemether 20mg,A4-10424,Demo Life Sciences Ltd,B32407,8457830631342,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Zinc 20mg,04-1324,Demo Life Sciences Ltd,B57828,6274984455228,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Cetirizine 10mg,A4-50271,Sample Remedies Ltd,B16255,999999999999999,suspicious,Synthetic demonstration record; injected issue: bad_barcode.
+DEMO Paracetamol 500mg,A11-6474,Sample Remedies Ltd,B16573,2670919260556,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Ibuprofen 200mg,04-8801,Example Healthcare Ltd,B29180,2887845945520,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Zinc 20mg,04-7757,Sample Health Nigeria Ltd,12,4828803668503,suspicious,Synthetic demonstration record; injected issue: bad_batch.
+DEMO Paracetamol 500mg,04-1953,Demo Pharma Nigeria Ltd,,9901701415379,suspicious,Synthetic demonstration record; injected issue: bad_batch.
+DEMO Amoxcillin 500mg,A11-9386,Sample Remedies Ltd,B38397,2167552962144,suspicious,Synthetic demonstration record; injected issue: odd_text.
+DEMO Artemether 20mg,A4-7895,Demo Pharma Nigeria Ltd,B48098,2423510772868,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Amoxicillin 500mg,04-2772,Demo Life Sciences Ltd,B95845,2304842798774,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Cetirizine 10mg,A11-7183,Demo Pharma Nigeria Ltd,B66316,1492966966513,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Vitamin C 100mg,A11-6230,Sample Health Nigeria Ltd,B68662,1786058335645,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Amoxicillin 500mg,A4-14281,Example Healthcare Ltd,B10806,1646513827602,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Vitamin C 100mg,A4-72268,Demo Pharma Nigeria Ltd,,9966385566451,suspicious,Synthetic demonstration record; injected issue: bad_batch.
+DEMO Ibuprofen 200mg,A11-8619,Example Healthcare Ltd,B10667,1127139174188,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Vitamin C 100mg,A4-94559,Example Laboratories Ltd,B40569,999999999999999,suspicious,Synthetic demonstration record; injected issue: bad_barcode.
+DEMO Vitamin C 100mg,A4-79947,Example Healthcare Ltd,B37121,2657252954342,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Amoxicillin 500mg,04-2551,Sample Remedies Ltd,B24541,6510010393377,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Amoxicillin 500mg,A11-6835,Sample Health Nigeria Ltd,B59518,6086333014262,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Paracetomol 500mg,A11-9821,Example Laboratories Ltd,B50749,1789640047743,suspicious,Synthetic demonstration record; injected issue: odd_text.
+DEMO @@@ 500mg,A4-65543,Example Healthcare Ltd,B48188,8168199834551,suspicious,Synthetic demonstration record; injected issue: odd_text.
+DEMO Metronidazole 400mg,A11-4195,Demo Life Sciences Ltd,B53202,9146676910301,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Ibuprofen 200mg,A4-65997,Demo Life Sciences Ltd,B29002,2116178337788,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO @@@ 500mg,A4-52129,Example Laboratories Ltd,B86214,4409583012757,suspicious,Synthetic demonstration record; injected issue: odd_text.
+DEMO Metronidazole 400mg,04-6946,Demo Pharma Nigeria Ltd,B70507,5325039017189,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Amoxicillin 500mg,04-2627,Sample Remedies Ltd,B33856,000000000000,suspicious,Synthetic demonstration record; injected issue: bad_barcode.
+DEMO Amoxicillin 500mg,A11-3637,Demo Life Sciences Ltd,B54178,ABC123456789,suspicious,Synthetic demonstration record; injected issue: bad_barcode.
+DEMO Zinc 20mg,04-7775,Demo Pharma Nigeria Ltd,,8200702622722,suspicious,Synthetic demonstration record; injected issue: bad_batch.
+DEMO Vitamin C 100mg,A11-7634,Demo Life Sciences Ltd,B28762,8102278358819,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Metronidazole 400mg,A4-65064,Example Laboratories Ltd,B91907,2629088656031,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Cetirizine 10mg,A11-4935,Sample Remedies Ltd,B99952,1261644527519,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Metronidazole 400mg,A11-4324,Sample Remedies Ltd,B61658,2406171157845,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Artemether 20mg,04-8923,Example Healthcare Ltd,B36424,3786868270244,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Zinc 20mg,04-2603,Example Healthcare Ltd,B58534,6553206191444,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Vitamin C 100mg,04-2361,Demo Pharma Nigeria Ltd,B77109,8523289728250,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Amoxicillin 500mg,04-5615,Example Healthcare Ltd,B39088,999999999999999,suspicious,Synthetic demonstration record; injected issue: bad_barcode.
+DEMO Vitamin C 100mg,A4-32042,Example Healthcare Ltd,B63020,6037505611998,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Zinc 20mg,04-5403,Example Laboratories Ltd,B-XYZ,7408009241487,suspicious,Synthetic demonstration record; injected issue: bad_batch.
+DEMO Artemether 20mg,04-4056,Example Healthcare Ltd,B65612,7937292536490,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Amoxcillin 500mg,A11-5692,Example Healthcare Ltd,B34108,6305556973630,suspicious,Synthetic demonstration record; injected issue: odd_text.
+DEMO Metronidazole 400mg,04-4801,Sample Health Nigeria Ltd,B59367,8983351182974,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Zinc 20mg,A4-80043,Demo Life Sciences Ltd,B23730,5668935248946,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Cetirizine 10mg,04-2273,Sample Health Nigeria Ltd,B67413,6641346125172,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Cetirizine 10mg,A11-8702,Demo Pharma Nigeria Ltd,B55836,1183316263159,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Ibuprofen 200mg,04-8162,Example Laboratories Ltd,B25490,4514364907916,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Paracetamol 500mg,A11-1281,Demo Pharma Nigeria Ltd,B44469,5269744404033,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Paracetamol 500mg,A4-49619,Example Laboratories Ltd,B80737,4741103738009,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Cetirizine 10mg,A11-1056,Example Healthcare Ltd,B49421,5265860257261,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Vitamin C 100mg,A11-6984,Sample Health Nigeria Ltd,B13320,5058322725843,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Cetirizine 10mg,A11-6748,Demo Life Sciences Ltd,B35220,8740058482562,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Paracetamol 500mg,A11-6752,Example Healthcare Ltd,B74174,4637390820519,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Vitamin C 100mg,A11-7427,Sample Health Nigeria Ltd,B96580,999999999999999,suspicious,Synthetic demonstration record; injected issue: bad_barcode.
+DEMO Amoxicillin 500mg,04-9088,Demo Life Sciences Ltd,,9872678803979,suspicious,Synthetic demonstration record; injected issue: bad_batch.
+DEMO Metronidazole 400mg,A4-91960,Example Laboratories Ltd,B21464,7294813392900,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Zinc 20mg,A11-9528,Example Laboratories Ltd,B68698,2205240792881,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Vitamin C 100mg,A4-83751,Example Healthcare Ltd,B17269,7513105029171,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Zinc 20mg,04-2574,Example Healthcare Ltd,B,2057317173194,suspicious,Synthetic demonstration record; injected issue: bad_batch.
+DEMO Paracetamol 500mg,A11-6529,Example Laboratories Ltd,B28454,8256083398506,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Paracetamol 500mg,04-5838,Example Laboratories Ltd,B92408,2710547979472,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Vitamin C 100mg,A11-5043,Example Laboratories Ltd,B28223,7293437281124,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Artemether 20mg,A4-8045,Demo Pharma Nigeria Ltd,,2669717706686,suspicious,Synthetic demonstration record; injected issue: bad_batch.
+DEMO Zinc 20mg,04-4009,Example Healthcare Ltd,B71606,2635566110307,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Vitamin C 100mg,A11-8991,Demo Pharma Nigeria Ltd,B84178,8854752325940,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Amoxicillin 500mg,A11-5221,Sample Health Nigeria Ltd,12,3302025880824,suspicious,Synthetic demonstration record; injected issue: bad_batch.
+DEMO Vitamin C 100mg,A11-8261,Example Laboratories Ltd,B73655,2546824278081,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Amoxcillin 500mg,04-2212,Sample Remedies Ltd,B58329,6897761650064,suspicious,Synthetic demonstration record; injected issue: odd_text.
+DEMO Vitamin C 100mg,A11-1187,Demo Life Sciences Ltd,B,3370081228620,suspicious,Synthetic demonstration record; injected issue: bad_batch.
+DEMO Amoxicillin 500mg,A11-2680,Demo Life Sciences Ltd,B82017,4062323907033,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Vitamin C 100mg,04-6044,Demo Life Sciences Ltd,B11438,1635856441939,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Vitamin C 100mg,04-4912,Demo Life Sciences Ltd,???,3511088230726,suspicious,Synthetic demonstration record; injected issue: bad_batch.
+DEMO Cetirizine 10mg,04-5478,Example Laboratories Ltd,B93592,5606401500142,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Ibuprofen 200mg,A4-13619,Demo Life Sciences Ltd,B81376,999999999999999,suspicious,Synthetic demonstration record; injected issue: bad_barcode.
+DEMO Metronidazole 400mg,A11-9453,Sample Health Nigeria Ltd,B18347,1378597978477,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Ibuprofen 200mg,04-4197,Sample Health Nigeria Ltd,B36019,7300091386606,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Amoxicillin 500mg,A11-9135,Demo Life Sciences Ltd,B80338,9069462209326,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Zinc 20mg,A11-1759,Sample Health Nigeria Ltd,B29474,9948508065241,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Artemether 20mg,999999,Demo Pharma Nigeria Ltd,B27573,6309034725617,suspicious,Synthetic demonstration record; injected issue: bad_nafdac.
+DEMO Vitamin C 100mg,A11-7191,Example Healthcare Ltd,B50034,6303589332981,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Ibuprofen 200mg,04-7541,Sample Remedies Ltd,B32529,9975796682918,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Paracetamol 500mg,04-9458,Example Healthcare Ltd,B21306,5981627664882,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Paracetamol 500mg,A4-78567,Demo Life Sciences Ltd,B12311,8182355511447,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO @@@ 500mg,04-1182,Example Healthcare Ltd,B10275,6577096259220,suspicious,Synthetic demonstration record; injected issue: odd_text.
+DEMO Ibuprofen 200mg,04-7119,Sample Remedies Ltd,B63058,5957484985271,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Paracetamol 500mg,A11-7672,Example Laboratories Ltd,B28139,5958679739621,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO @@@ 500mg,A11-1608,Sample Health Nigeria Ltd,B30746,1915916132618,suspicious,Synthetic demonstration record; injected issue: odd_text.
+DEMO Vitamin C 100mg,04-1224,Demo Pharma Nigeria Ltd,B85621,1632800247080,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Ibuprofen 200mg,04-7141,Demo Life Sciences Ltd,B62445,2146840039653,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO @@@ 500mg,04-5087,Demo Pharma Nigeria Ltd,B31086,7571923616303,suspicious,Synthetic demonstration record; injected issue: odd_text.
+DEMO Metronidazole 400mg,04-7254,Demo Life Sciences Ltd,B49939,2646128655879,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Paracetomol 500mg,04-5644,Demo Life Sciences Ltd,B14675,9032332772256,suspicious,Synthetic demonstration record; injected issue: odd_text.
+DEMO Metronidazole 400mg,04-9375,Sample Remedies Ltd,B66437,3185010869147,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Metronidazole 400mg,A4-48057,Sample Health Nigeria Ltd,B98091,7702329648180,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Ibuprofen 200mg,A11-8914,Demo Life Sciences Ltd,B49521,4887694512829,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Paracetamol 500mg,A11-2527,Sample Remedies Ltd,B56083,2490697729110,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Vitamin C 100mg,A11-9629,Example Laboratories Ltd,B75734,9066565906984,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Cetirizine 10mg,A11-8577,Example Laboratories Ltd,B38809,3025688731971,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Cetirizine 10mg,A11-6237,Sample Health Nigeria Ltd,B55196,000000000000,suspicious,Synthetic demonstration record; injected issue: bad_barcode.
+DEMO Amoxicillin 500mg,999999,Demo Pharma Nigeria Ltd,B78425,5670373917178,suspicious,Synthetic demonstration record; injected issue: bad_nafdac.
+DEMO Cetirizine 10mg,A11-8628,Sample Remedies Ltd,B65114,7808642808807,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Ibuprofen 200mg,A4-28039,Example Laboratories Ltd,B81819,7719408676495,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Ibuprofen 200mg,A4-37779,Sample Remedies Ltd,B91473,9272998894320,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Zinc 20mg,04-7681,Example Laboratories Ltd,B24708,4341524387577,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Amoxicillin 500mg,A11-9445,Demo Pharma Nigeria Ltd,B66477,7977099269738,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Paracetamol 500mg,A4-18850,Example Healthcare Ltd,B10201,5595945685658,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Cetirizine 10mg,A11-5890,Demo Life Sciences Ltd,B31597,6329864347163,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Amoxicillin 500mg,04-3772,Demo Life Sciences Ltd,B22429,3131745428145,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Ibuprofen 200mg,04-1050,Sample Health Nigeria Ltd,B82056,4348033810476,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Cetirizine 10mg,A4-30876,Example Laboratories Ltd,B84585,3126610913652,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Vitamin C 100mg,A4-11853,Demo Pharma Nigeria Ltd,B34767,999999999999999,suspicious,Synthetic demonstration record; injected issue: bad_barcode.
+DEMO Vitamin C 100mg,04-1182,Example Laboratories Ltd,B44321,5404232769610,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Paracetomol 500mg,A11-5751,Sample Health Nigeria Ltd,B61267,6880643308032,suspicious,Synthetic demonstration record; injected issue: odd_text.
+DEMO Artemether 20mg,04-8419,Example Laboratories Ltd,B23407,6256570084263,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Metronidazole 400mg,A4-18316,Sample Remedies Ltd,B68817,999999999999999,suspicious,Synthetic demonstration record; injected issue: bad_barcode.
+DEMO @@@ 500mg,A11-1841,Demo Life Sciences Ltd,B24897,6926747345656,suspicious,Synthetic demonstration record; injected issue: odd_text.
+DEMO Zinc 20mg,A4-12092,Example Healthcare Ltd,B11725,1364490567400,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Metronidazole 400mg,04-5034,Sample Remedies Ltd,B58268,ABC123456789,suspicious,Synthetic demonstration record; injected issue: bad_barcode.
+DEMO Paracetomol 500mg,A4-28739,Demo Life Sciences Ltd,B88182,3173401545595,suspicious,Synthetic demonstration record; injected issue: odd_text.
+DEMO Ibuprofen 200mg,04-5723,Example Healthcare Ltd,B20088,3595480330727,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Ibuprofen 200mg,04-1146,Sample Health Nigeria Ltd,B29078,1964897612741,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Artemether 20mg,A11-12X,Sample Health Nigeria Ltd,B53102,5445187688389,suspicious,Synthetic demonstration record; injected issue: bad_nafdac.
+DEMO Vitamin C 100mg,A4-1785,Demo Pharma Nigeria Ltd,B70581,6562664544196,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Amoxicillin 500mg,A4-75873,Sample Remedies Ltd,B45772,4704901256167,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Paracetamol 500mg,04-2098,Example Healthcare Ltd,B-XYZ,5641571628628,suspicious,Synthetic demonstration record; injected issue: bad_batch.
+DEMO Paracetamol 500mg,A4-76554,Example Healthcare Ltd,B37028,4880934713132,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Zinc 20mg,FAKE-0001,Example Healthcare Ltd,B76023,4724198288956,suspicious,Synthetic demonstration record; injected issue: bad_nafdac.
+DEMO Paracetomol 500mg,04-8558,Sample Remedies Ltd,B76000,6020980106497,suspicious,Synthetic demonstration record; injected issue: odd_text.
+DEMO Amoxcillin 500mg,04-5332,Demo Life Sciences Ltd,B70699,3854085956875,suspicious,Synthetic demonstration record; injected issue: odd_text.
+DEMO Cetirizine 10mg,A11-1900,Demo Pharma Nigeria Ltd,???,6995954487747,suspicious,Synthetic demonstration record; injected issue: bad_batch.
+DEMO Zinc 20mg,A11-2299,Demo Pharma Nigeria Ltd,B26865,9906926470044,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Artemether 20mg,A11-7530,Demo Life Sciences Ltd,B34738,9820113804503,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Vitamin C 100mg,A11-5259,Example Healthcare Ltd,B29726,7149489530660,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Metronidazole 400mg,04-4571,Sample Remedies Ltd,,7714938088642,suspicious,Synthetic demonstration record; injected issue: bad_batch.
+DEMO Artemether 20mg,04-8884,Example Laboratories Ltd,B68260,3183628316730,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Ibuprofen 200mg,NAFDAC-XYZ-000,Demo Pharma Nigeria Ltd,B24435,6945253079540,suspicious,Synthetic demonstration record; injected issue: bad_nafdac.
+DEMO Metronidazole 400mg,04-2464,Demo Life Sciences Ltd,12,3730986076525,suspicious,Synthetic demonstration record; injected issue: bad_batch.
+DEMO Amoxcillin 500mg,A11-8501,Sample Remedies Ltd,B86379,2715784809453,suspicious,Synthetic demonstration record; injected issue: odd_text.
+DEMO Cetirizine 10mg,04-9830,Demo Pharma Nigeria Ltd,12,8115413401499,suspicious,Synthetic demonstration record; injected issue: bad_batch.
+DEMO Metronidazole 400mg,A4/ABC,Demo Life Sciences Ltd,B79214,5551824504891,suspicious,Synthetic demonstration record; injected issue: bad_nafdac.
+DEMO Amoxicillin 500mg,NAFDAC-XYZ-000,Sample Health Nigeria Ltd,B86666,5470640026462,suspicious,Synthetic demonstration record; injected issue: bad_nafdac.
+DEMO Amoxicillin 500mg,A11-2636,Sample Remedies Ltd,B29020,9802384663649,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Zinc 20mg,A4-98671,Example Healthcare Ltd,B11133,ABC123456789,suspicious,Synthetic demonstration record; injected issue: bad_barcode.
+DEMO Paracetomol 500mg,A11-7459,Sample Remedies Ltd,B72992,3896462527268,suspicious,Synthetic demonstration record; injected issue: odd_text.
+DEMO @@@ 500mg,04-5202,Sample Health Nigeria Ltd,B23760,3732806210842,suspicious,Synthetic demonstration record; injected issue: odd_text.
+DEMO Artemether 20mg,A4-45212,Demo Life Sciences Ltd,B35809,2224247006988,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Metronidazole 400mg,FAKE-0001,Demo Life Sciences Ltd,B35491,9447496036958,suspicious,Synthetic demonstration record; injected issue: bad_nafdac.
+DEMO Paracetomol 500mg,A11-5291,Demo Life Sciences Ltd,B19834,6605658692704,suspicious,Synthetic demonstration record; injected issue: odd_text.
+DEMO Amoxicillin 500mg,A11-5801,Example Healthcare Ltd,B42920,5024790684311,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Artemether 20mg,A11-7207,Example Laboratories Ltd,B68365,1477291345046,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Amoxicillin 500mg,A11-1144,Example Healthcare Ltd,B98167,2805999628716,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Vitamin C 100mg,04-2729,Sample Remedies Ltd,???,3456458305973,suspicious,Synthetic demonstration record; injected issue: bad_batch.
+DEMO Ibuprofen 200mg,A4-13497,Example Healthcare Ltd,B86388,000000000000,suspicious,Synthetic demonstration record; injected issue: bad_barcode.
+DEMO Paracetamol 500mg,NAFDAC-XYZ-000,Demo Life Sciences Ltd,B47505,8830858506523,suspicious,Synthetic demonstration record; injected issue: bad_nafdac.
+DEMO Zinc 20mg,999999,Demo Life Sciences Ltd,B50563,7175163790024,suspicious,Synthetic demonstration record; injected issue: bad_nafdac.
+DEMO Vitamin C 100mg,A4-81278,Demo Pharma Nigeria Ltd,B17477,6213287763050,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Zinc 20mg,04-5040,Sample Remedies Ltd,B45255,3463303668712,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Artemether 20mg,A11-1344,Sample Health Nigeria Ltd,,3531213701867,suspicious,Synthetic demonstration record; injected issue: bad_batch.
+DEMO Vitamin C 100mg,FAKE-0001,Demo Pharma Nigeria Ltd,B73273,8871718706585,suspicious,Synthetic demonstration record; injected issue: bad_nafdac.
+DEMO Paracetamol 500mg,A4-3403,Sample Remedies Ltd,B78405,ABC123456789,suspicious,Synthetic demonstration record; injected issue: bad_barcode.
+DEMO Artemether 20mg,04-7565,Sample Remedies Ltd,B47905,7557342782840,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Amoxicillin 500mg,A4-67189,Sample Remedies Ltd,B75430,8690741812378,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Vitamin C 100mg,A4-97772,Sample Remedies Ltd,B25144,999999999999999,suspicious,Synthetic demonstration record; injected issue: bad_barcode.
+DEMO Vitamin C 100mg,04-3672,Example Laboratories Ltd,B40808,4362319058251,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Ibuprofen 200mg,A4-47552,Demo Pharma Nigeria Ltd,B55079,2506215423799,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Ibuprofen 200mg,A4-7326,Sample Remedies Ltd,B32133,12345,suspicious,Synthetic demonstration record; injected issue: bad_barcode.
+DEMO Ibuprofen 200mg,A4-42414,Sample Remedies Ltd,B47890,5559500257838,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Vitamin C 100mg,04-1631,Example Healthcare Ltd,B58875,3405994430117,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Ibuprofen 200mg,04-7965,Sample Remedies Ltd,B73912,3333563208173,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Vitamin C 100mg,A4-24430,Demo Pharma Nigeria Ltd,B38481,9245185191189,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Zinc 20mg,04-4124,Sample Health Nigeria Ltd,B44209,7136197423283,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Amoxicillin 500mg,A4-78133,Example Healthcare Ltd,B67449,2884895528736,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Artemether 20mg,A11-6242,Example Healthcare Ltd,B59620,1327887525788,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Cetirizine 10mg,A11-5767,Sample Remedies Ltd,B88198,1997239555293,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Paracetamol 500mg,A4-47966,Sample Remedies Ltd,B27513,9317121840857,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Vitamin C 100mg,A4-86395,Demo Life Sciences Ltd,B99048,000000000000,suspicious,Synthetic demonstration record; injected issue: bad_barcode.
+DEMO Vitamin C 100mg,A4-54190,Sample Health Nigeria Ltd,B84591,4945663814770,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Metronidazole 400mg,A4/ABC,Demo Pharma Nigeria Ltd,B61267,2929108932529,suspicious,Synthetic demonstration record; injected issue: bad_nafdac.
+DEMO Artemether 20mg,A11-8098,Sample Remedies Ltd,B68319,5019230351585,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Paracetamol 500mg,04-6898,Sample Remedies Ltd,B48754,1737278957667,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Cetirizine 10mg,04-4579,Example Healthcare Ltd,B68703,9246718305233,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Zinc 20mg,A11-2232,Sample Health Nigeria Ltd,B88120,000000000000,suspicious,Synthetic demonstration record; injected issue: bad_barcode.
+DEMO Vitamin C 100mg,A4/ABC,Sample Remedies Ltd,B83382,3468068401513,suspicious,Synthetic demonstration record; injected issue: bad_nafdac.
+DEMO Artemether 20mg,04-8583,Example Healthcare Ltd,B26330,2687783019149,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Cetirizine 10mg,A4-32319,Example Laboratories Ltd,B61001,2878541950932,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Vitamin C 100mg,04-6351,Sample Remedies Ltd,B83328,7567137942348,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Vitamin C 100mg,04-5568,Sample Remedies Ltd,???,5657547199541,suspicious,Synthetic demonstration record; injected issue: bad_batch.
+DEMO Zinc 20mg,04-5504,Demo Life Sciences Ltd,B48522,1143246727357,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Zinc 20mg,A4-47848,Demo Life Sciences Ltd,B91279,7430968884430,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Metronidazole 400mg,04-2610,Sample Remedies Ltd,B73362,4701526773587,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Zinc 20mg,04-1890,Sample Remedies Ltd,B85744,9180757049948,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Artemether 20mg,04-8438,Demo Pharma Nigeria Ltd,B71405,7661315878263,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Zinc 20mg,A11-1138,Demo Pharma Nigeria Ltd,B46227,2106736953688,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Zinc 20mg,A11-4553,Sample Remedies Ltd,B48247,3474385227733,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Paracetamol 500mg,A11-7729,Example Healthcare Ltd,B63229,6903239157764,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Ibuprofen 200mg,A11-8769,Demo Pharma Nigeria Ltd,B28151,12345,suspicious,Synthetic demonstration record; injected issue: bad_barcode.
+DEMO Amoxicillin 500mg,A4-55621,Sample Health Nigeria Ltd,B56760,6672119454756,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Artemether 20mg,04-7975,Example Laboratories Ltd,B55485,8975964820503,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Ibuprofen 200mg,A11-2845,Demo Life Sciences Ltd,B91942,3640376555127,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Vitamin C 100mg,A4-69891,Sample Health Nigeria Ltd,B67179,4900777799576,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Amoxicillin 500mg,A4-57892,Demo Life Sciences Ltd,B73752,5989776377013,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Metronidazole 400mg,04-6370,Example Healthcare Ltd,B44874,4271210377569,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Ibuprofen 200mg,04-1981,Demo Life Sciences Ltd,B41993,12345,suspicious,Synthetic demonstration record; injected issue: bad_barcode.
+DEMO Metronidazole 400mg,04-3524,Sample Health Nigeria Ltd,B45444,9997433659565,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Vitamin C 100mg,A11-1516,Sample Remedies Ltd,B57089,7227940297477,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Amoxicillin 500mg,A4-63624,Sample Health Nigeria Ltd,???,8999089897284,suspicious,Synthetic demonstration record; injected issue: bad_batch.
+DEMO Zinc 20mg,04-4062,Example Healthcare Ltd,B89568,7391502464487,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Zinc 20mg,04-2085,Demo Life Sciences Ltd,B20952,7142403574017,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Amoxicillin 500mg,A4-7422,Sample Remedies Ltd,B13557,9470562483925,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Ibuprofen 200mg,999999,Sample Remedies Ltd,B77393,7011314830526,suspicious,Synthetic demonstration record; injected issue: bad_nafdac.
+DEMO Zinc 20mg,A4/ABC,Sample Remedies Ltd,B69223,3481858679455,suspicious,Synthetic demonstration record; injected issue: bad_nafdac.
+DEMO Vitamin C 100mg,A11-7449,Example Healthcare Ltd,B40721,2945008495739,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Amoxcillin 500mg,A11-3257,Example Healthcare Ltd,B57632,6668089972523,suspicious,Synthetic demonstration record; injected issue: odd_text.
+DEMO Paracetomol 500mg,A4-53221,Demo Life Sciences Ltd,B23836,4274172839481,suspicious,Synthetic demonstration record; injected issue: odd_text.
+DEMO Vitamin C 100mg,FAKE-0001,Sample Health Nigeria Ltd,B44382,6356941196649,suspicious,Synthetic demonstration record; injected issue: bad_nafdac.
+DEMO @@@ 500mg,A4-66070,Demo Life Sciences Ltd,B82059,6356628758701,suspicious,Synthetic demonstration record; injected issue: odd_text.
+DEMO Cetirizine 10mg,A4-23550,Example Healthcare Ltd,B,3141188979978,suspicious,Synthetic demonstration record; injected issue: bad_batch.
+DEMO Amoxicillin 500mg,04-7431,Sample Remedies Ltd,B87279,3186872757665,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Amoxicillin 500mg,A11-2900,Demo Pharma Nigeria Ltd,B73130,5377225809399,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Amoxicillin 500mg,A4-4084,Sample Remedies Ltd,B10831,4334046320781,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Cetirizine 10mg,A4-69122,Demo Life Sciences Ltd,B61599,1637204245962,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Ibuprofen 200mg,A4-21619,Sample Health Nigeria Ltd,B62394,4707772516107,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Ibuprofen 200mg,04-6850,Example Laboratories Ltd,B37181,9195976380249,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Artemether 20mg,A4-63676,Example Laboratories Ltd,B24455,3764810202690,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Cetirizine 10mg,04-4083,Example Healthcare Ltd,B28219,1927895230767,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Ibuprofen 200mg,A11-3011,Example Healthcare Ltd,B73338,4198238833203,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Zinc 20mg,A4-34530,Example Healthcare Ltd,B96353,4178690467488,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Amoxicillin 500mg,04-1394,Demo Life Sciences Ltd,B69662,7901753682724,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Paracetomol 500mg,04-4625,Sample Remedies Ltd,B68842,6857018520166,suspicious,Synthetic demonstration record; injected issue: odd_text.
+DEMO Paracetomol 500mg,A11-1577,Demo Life Sciences Ltd,B57859,2839291243742,suspicious,Synthetic demonstration record; injected issue: odd_text.
+DEMO Ibuprofen 200mg,A4-59979,Demo Life Sciences Ltd,B80615,6407644387662,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Zinc 20mg,A4-33298,Sample Remedies Ltd,B85593,000000000000,suspicious,Synthetic demonstration record; injected issue: bad_barcode.
+DEMO Ibuprofen 200mg,A11-1990,Sample Remedies Ltd,B48630,6328025987039,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Paracetamol 500mg,A11-6534,Sample Health Nigeria Ltd,B86646,1417816402998,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Paracetomol 500mg,04-7866,Example Healthcare Ltd,B43072,2710861945735,suspicious,Synthetic demonstration record; injected issue: odd_text.
+DEMO Amoxicillin 500mg,A4-25332,Example Healthcare Ltd,B23566,3846094391675,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Amoxicillin 500mg,A11-6759,Sample Health Nigeria Ltd,B63909,8475713442844,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Zinc 20mg,04-2082,Example Laboratories Ltd,B30296,4795196993051,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Cetirizine 10mg,A11-9813,Example Laboratories Ltd,B59364,5943429114414,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Cetirizine 10mg,04-3718,Demo Life Sciences Ltd,B14993,2517568856483,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Amoxcillin 500mg,A11-4217,Demo Pharma Nigeria Ltd,B28962,5616590054601,suspicious,Synthetic demonstration record; injected issue: odd_text.
+DEMO Artemether 20mg,A11-5074,Example Healthcare Ltd,B55285,3648906773513,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Zinc 20mg,04-5272,Demo Life Sciences Ltd,B63779,3009903293457,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Amoxicillin 500mg,A4-58553,Demo Pharma Nigeria Ltd,B41499,7455796468356,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Vitamin C 100mg,A11-5659,Sample Remedies Ltd,B42380,9397677173305,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Ibuprofen 200mg,04-4709,Sample Health Nigeria Ltd,B47467,9436242894208,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Paracetamol 500mg,A11-5999,Example Laboratories Ltd,B85185,12345,suspicious,Synthetic demonstration record; injected issue: bad_barcode.
+DEMO Metronidazole 400mg,A4/ABC,Sample Health Nigeria Ltd,B67910,8451317324408,suspicious,Synthetic demonstration record; injected issue: bad_nafdac.
+DEMO Ibuprofen 200mg,A1--77,Example Healthcare Ltd,B70767,6529629259578,suspicious,Synthetic demonstration record; injected issue: bad_nafdac.
+DEMO Vitamin C 100mg,04-8529,Sample Health Nigeria Ltd,B24823,3592738656420,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Artemether 20mg,A11-2050,Example Healthcare Ltd,,7780317525554,suspicious,Synthetic demonstration record; injected issue: bad_batch.
+DEMO Zinc 20mg,A4-51108,Example Healthcare Ltd,B64131,7900314286889,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Metronidazole 400mg,A11-8173,Demo Life Sciences Ltd,B60394,4884851872910,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Cetirizine 10mg,04-9249,Demo Life Sciences Ltd,B13767,4955335899209,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Cetirizine 10mg,A11-3980,Sample Health Nigeria Ltd,B26203,2576668575259,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Vitamin C 100mg,A11-1358,Sample Remedies Ltd,B88704,5500325934438,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Ibuprofen 200mg,04-6047,Example Healthcare Ltd,B40656,6593325017815,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Artemether 20mg,FAKE-0001,Example Laboratories Ltd,B93647,3980604204658,suspicious,Synthetic demonstration record; injected issue: bad_nafdac.
+DEMO @@@ 500mg,A11-1791,Sample Remedies Ltd,B62516,3491229586519,suspicious,Synthetic demonstration record; injected issue: odd_text.
+DEMO Vitamin C 100mg,A4-33150,Demo Life Sciences Ltd,B29559,1564869501375,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Cetirizine 10mg,A4-94012,Demo Life Sciences Ltd,B37758,000000000000,suspicious,Synthetic demonstration record; injected issue: bad_barcode.
+DEMO Amoxicillin 500mg,A4-30493,Sample Health Nigeria Ltd,12,6839622405941,suspicious,Synthetic demonstration record; injected issue: bad_batch.
+DEMO Amoxicillin 500mg,04-8534,Demo Pharma Nigeria Ltd,B89356,999999999999999,suspicious,Synthetic demonstration record; injected issue: bad_barcode.
+DEMO Paracetamol 500mg,A4-1423,Example Laboratories Ltd,B25695,1436451240447,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Paracetamol 500mg,A4-59265,Demo Life Sciences Ltd,B97448,6921026032653,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Paracetamol 500mg,A11-7558,Example Healthcare Ltd,B70649,000000000000,suspicious,Synthetic demonstration record; injected issue: bad_barcode.
+DEMO Vitamin C 100mg,04-2101,Sample Health Nigeria Ltd,,6475750718894,suspicious,Synthetic demonstration record; injected issue: bad_batch.
+DEMO Metronidazole 400mg,A11-4100,Demo Pharma Nigeria Ltd,B89231,9767987495516,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Metronidazole 400mg,A4-83573,Example Laboratories Ltd,B28779,3315741890095,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Amoxicillin 500mg,04-1468,Example Healthcare Ltd,B51325,2531119650540,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Artemether 20mg,A11-8823,Sample Health Nigeria Ltd,B23957,1658626215228,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Amoxicillin 500mg,A4-45423,Demo Pharma Nigeria Ltd,B96641,9198872555479,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Amoxicillin 500mg,A11-5460,Sample Remedies Ltd,B64787,3635621553292,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Paracetamol 500mg,A4-48570,Sample Remedies Ltd,B60476,1888883719421,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Ibuprofen 200mg,A11-1824,Sample Remedies Ltd,B94195,1040041223279,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Amoxicillin 500mg,A11-4644,Sample Health Nigeria Ltd,B82021,9238945154744,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Ibuprofen 200mg,A4-70712,Example Laboratories Ltd,B63462,2657261680240,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Vitamin C 100mg,A11-3753,Demo Life Sciences Ltd,B60833,2248368428429,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Zinc 20mg,A4-42275,Example Healthcare Ltd,B98810,6877572258876,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Amoxicillin 500mg,A4-7151,Demo Life Sciences Ltd,B19264,8396834166087,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Amoxcillin 500mg,04-6418,Example Healthcare Ltd,B13533,7765536922961,suspicious,Synthetic demonstration record; injected issue: odd_text.
+DEMO Vitamin C 100mg,A4-40712,Example Laboratories Ltd,B48396,12345,suspicious,Synthetic demonstration record; injected issue: bad_barcode.
+DEMO Ibuprofen 200mg,A4-89328,Sample Health Nigeria Ltd,B85139,1447648889689,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Ibuprofen 200mg,04-6361,Demo Pharma Nigeria Ltd,B,5413585755336,suspicious,Synthetic demonstration record; injected issue: bad_batch.
+DEMO Ibuprofen 200mg,A4-92972,Sample Health Nigeria Ltd,B47045,7808220466799,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Metronidazole 400mg,A11-9724,Example Laboratories Ltd,B26000,999999999999999,suspicious,Synthetic demonstration record; injected issue: bad_barcode.
+DEMO Amoxicillin 500mg,A4/ABC,Sample Remedies Ltd,B95327,2010576068202,suspicious,Synthetic demonstration record; injected issue: bad_nafdac.
+DEMO Cetirizine 10mg,A4-45386,Sample Health Nigeria Ltd,B37641,6476053328143,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Cetirizine 10mg,04-3537,Sample Health Nigeria Ltd,B45428,7861616557341,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Zinc 20mg,04-5985,Demo Life Sciences Ltd,B31726,3360620446469,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Paracetamol 500mg,04-4235,Demo Life Sciences Ltd,B77782,4019013333543,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Metronidazole 400mg,04-3535,Demo Pharma Nigeria Ltd,B99881,3650944184109,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Vitamin C 100mg,04-4104,Sample Remedies Ltd,B99534,12345,suspicious,Synthetic demonstration record; injected issue: bad_barcode.
+DEMO Vitamin C 100mg,04-3952,Demo Life Sciences Ltd,B13602,9261482514604,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Vitamin C 100mg,A4-35288,Demo Pharma Nigeria Ltd,B81498,8774424552372,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Amoxcillin 500mg,A4-15504,Demo Life Sciences Ltd,B23174,6420473698129,suspicious,Synthetic demonstration record; injected issue: odd_text.
+DEMO Cetirizine 10mg,04-4641,Example Laboratories Ltd,B33573,3220805253494,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Artemether 20mg,04-3128,Example Healthcare Ltd,B79803,ABC123456789,suspicious,Synthetic demonstration record; injected issue: bad_barcode.
+DEMO Ibuprofen 200mg,A11-8640,Sample Remedies Ltd,B72730,8818711982230,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Artemether 20mg,A4/ABC,Sample Remedies Ltd,B16247,7510685528461,suspicious,Synthetic demonstration record; injected issue: bad_nafdac.
+DEMO @@@ 500mg,A4-65442,Example Healthcare Ltd,B52882,7778422171187,suspicious,Synthetic demonstration record; injected issue: odd_text.
+DEMO Zinc 20mg,A4-37009,Example Healthcare Ltd,B93546,6360736762091,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Artemether 20mg,A4-79783,Example Laboratories Ltd,B47388,1695394272282,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Zinc 20mg,A4-78621,Sample Remedies Ltd,B89603,9566492038276,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Paracetamol 500mg,04-1271,Example Laboratories Ltd,B12108,000000000000,suspicious,Synthetic demonstration record; injected issue: bad_barcode.
+DEMO Cetirizine 10mg,04-7493,Demo Pharma Nigeria Ltd,B68518,7136104077726,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO @@@ 500mg,04-8049,Example Healthcare Ltd,B62771,2972050066761,suspicious,Synthetic demonstration record; injected issue: odd_text.
+DEMO Amoxicillin 500mg,A11-2716,Example Healthcare Ltd,B31418,8011933648608,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Vitamin C 100mg,04-8431,Sample Remedies Ltd,B36009,6056900514036,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Zinc 20mg,A11-3809,Demo Pharma Nigeria Ltd,B51733,4903614763186,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Artemether 20mg,A11-2810,Example Healthcare Ltd,12,1367520376076,suspicious,Synthetic demonstration record; injected issue: bad_batch.
+DEMO Vitamin C 100mg,A4-16807,Example Laboratories Ltd,,5974759396651,suspicious,Synthetic demonstration record; injected issue: bad_batch.
+DEMO Amoxcillin 500mg,04-3980,Example Healthcare Ltd,B55219,3408838615538,suspicious,Synthetic demonstration record; injected issue: odd_text.
+DEMO Amoxicillin 500mg,A11-9638,Example Laboratories Ltd,B75457,5216905265276,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Vitamin C 100mg,A4-76630,Demo Pharma Nigeria Ltd,B13984,4463151714960,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO @@@ 500mg,04-3667,Demo Pharma Nigeria Ltd,B10548,9392248462023,suspicious,Synthetic demonstration record; injected issue: odd_text.
+DEMO Metronidazole 400mg,A4-81296,Sample Health Nigeria Ltd,B23204,4215780845894,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Metronidazole 400mg,A4-83167,Example Healthcare Ltd,B48423,7585055051209,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Vitamin C 100mg,04-4388,Example Healthcare Ltd,B14145,2399912199435,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Ibuprofen 200mg,A11-3186,Demo Pharma Nigeria Ltd,B83682,999999999999999,suspicious,Synthetic demonstration record; injected issue: bad_barcode.
+DEMO Vitamin C 100mg,A4-4871,Sample Remedies Ltd,B76209,5010400267311,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Cetirizine 10mg,A4-18489,Demo Life Sciences Ltd,,2570971452177,suspicious,Synthetic demonstration record; injected issue: bad_batch.
+DEMO Paracetamol 500mg,A4/ABC,Demo Life Sciences Ltd,B48982,1571800134657,suspicious,Synthetic demonstration record; injected issue: bad_nafdac.
+DEMO Paracetamol 500mg,A11-8287,Demo Pharma Nigeria Ltd,B19559,7659492068635,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Amoxicillin 500mg,A11-4344,Example Laboratories Ltd,B51699,5665425825492,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Metronidazole 400mg,04-7145,Demo Life Sciences Ltd,B15663,9500327706903,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Paracetamol 500mg,A11-6929,Demo Pharma Nigeria Ltd,B92912,5058546839949,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Zinc 20mg,04-4295,Example Laboratories Ltd,B12333,1002829776796,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Paracetamol 500mg,04-6634,Sample Health Nigeria Ltd,B33424,8924724787232,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Paracetomol 500mg,A11-8543,Demo Life Sciences Ltd,B77128,3813499610057,suspicious,Synthetic demonstration record; injected issue: odd_text.
+DEMO Vitamin C 100mg,A11-3048,Sample Health Nigeria Ltd,B41924,9678916781962,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Paracetamol 500mg,A4-12158,Demo Life Sciences Ltd,B32940,2540844480190,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Vitamin C 100mg,04-5288,Demo Life Sciences Ltd,B40684,4262669936233,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Vitamin C 100mg,A4-54180,Sample Health Nigeria Ltd,B80736,6323389066715,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Paracetamol 500mg,A4-18428,Sample Remedies Ltd,B75849,ABC123456789,suspicious,Synthetic demonstration record; injected issue: bad_barcode.
+DEMO Amoxicillin 500mg,A11-3245,Sample Remedies Ltd,B23102,6131737348289,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Amoxicillin 500mg,04-3756,Sample Remedies Ltd,,3535304783487,suspicious,Synthetic demonstration record; injected issue: bad_batch.
+DEMO Amoxicillin 500mg,A4-84300,Demo Pharma Nigeria Ltd,B95910,8295045491062,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Ibuprofen 200mg,A4-30489,Demo Life Sciences Ltd,B85379,12345,suspicious,Synthetic demonstration record; injected issue: bad_barcode.
+DEMO Cetirizine 10mg,A4-2458,Sample Remedies Ltd,B-XYZ,1009467753043,suspicious,Synthetic demonstration record; injected issue: bad_batch.
+DEMO Vitamin C 100mg,04-6594,Demo Life Sciences Ltd,12,3610430602962,suspicious,Synthetic demonstration record; injected issue: bad_batch.
+DEMO Metronidazole 400mg,A11-4151,Demo Pharma Nigeria Ltd,B50930,3590752604416,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Cetirizine 10mg,A4-56434,Example Healthcare Ltd,B30622,8911034963223,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Artemether 20mg,A4-63252,Sample Remedies Ltd,B70332,12345,suspicious,Synthetic demonstration record; injected issue: bad_barcode.
+DEMO @@@ 500mg,04-2405,Example Healthcare Ltd,B93191,3224073595320,suspicious,Synthetic demonstration record; injected issue: odd_text.
+DEMO Amoxicillin 500mg,04-5510,Demo Life Sciences Ltd,B89130,2332298980922,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Artemether 20mg,A4-67996,Sample Health Nigeria Ltd,B86405,12345,suspicious,Synthetic demonstration record; injected issue: bad_barcode.
+DEMO Ibuprofen 200mg,A4-33109,Example Laboratories Ltd,B77691,7284180465902,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Zinc 20mg,04-1624,Example Laboratories Ltd,B76507,9555295456440,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Artemether 20mg,A4-79321,Demo Life Sciences Ltd,B54057,6523424350532,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Artemether 20mg,A11-12X,Demo Life Sciences Ltd,B61724,6128558994087,suspicious,Synthetic demonstration record; injected issue: bad_nafdac.
+DEMO Zinc 20mg,04-5784,Demo Pharma Nigeria Ltd,B47234,6170208933441,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Vitamin C 100mg,04-4868,Demo Pharma Nigeria Ltd,B36064,9193711058483,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Cetirizine 10mg,A11-7380,Demo Pharma Nigeria Ltd,B15179,6381554618077,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Cetirizine 10mg,A4-63084,Demo Pharma Nigeria Ltd,B,3582044414490,suspicious,Synthetic demonstration record; injected issue: bad_batch.
+DEMO Amoxicillin 500mg,04-1618,Demo Pharma Nigeria Ltd,B49640,8520699331479,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Metronidazole 400mg,A11-9337,Sample Remedies Ltd,B34962,6774811110204,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Paracetamol 500mg,NAFDAC-XYZ-000,Sample Health Nigeria Ltd,B64691,7613646885863,suspicious,Synthetic demonstration record; injected issue: bad_nafdac.
+DEMO Metronidazole 400mg,A4-15907,Example Healthcare Ltd,B31444,2617945370154,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Paracetamol 500mg,A11-7401,Sample Health Nigeria Ltd,B20189,7018252865590,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Vitamin C 100mg,A4-78610,Demo Pharma Nigeria Ltd,,4523037972281,suspicious,Synthetic demonstration record; injected issue: bad_batch.
+DEMO Vitamin C 100mg,04-1731,Example Healthcare Ltd,B66043,3047939819375,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Zinc 20mg,A11-7601,Sample Remedies Ltd,B35207,8950430638822,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Cetirizine 10mg,04-9205,Example Healthcare Ltd,B42434,3598669317157,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Ibuprofen 200mg,A11-5710,Example Laboratories Ltd,B24292,7720523886625,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Paracetamol 500mg,04-7263,Example Healthcare Ltd,B57552,2170417960763,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Amoxcillin 500mg,04-6536,Example Healthcare Ltd,B63895,6914527825816,suspicious,Synthetic demonstration record; injected issue: odd_text.
+DEMO Ibuprofen 200mg,A4-90474,Example Laboratories Ltd,B42551,5942265191969,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Cetirizine 10mg,A4-84103,Demo Pharma Nigeria Ltd,B98887,7789880748042,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Ibuprofen 200mg,04-4784,Demo Life Sciences Ltd,B43570,2559778839063,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Ibuprofen 200mg,NAFDAC-XYZ-000,Demo Pharma Nigeria Ltd,B78243,2757494621859,suspicious,Synthetic demonstration record; injected issue: bad_nafdac.
+DEMO Zinc 20mg,A4-85704,Example Healthcare Ltd,B59107,1950089162627,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Amoxicillin 500mg,04-8685,Example Laboratories Ltd,B10529,000000000000,suspicious,Synthetic demonstration record; injected issue: bad_barcode.
+DEMO Paracetamol 500mg,04-7826,Sample Remedies Ltd,B84129,1874913740064,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Metronidazole 400mg,04-1518,Demo Life Sciences Ltd,B18040,000000000000,suspicious,Synthetic demonstration record; injected issue: bad_barcode.
+DEMO Paracetomol 500mg,04-6765,Demo Life Sciences Ltd,B79503,5954415217974,suspicious,Synthetic demonstration record; injected issue: odd_text.
+DEMO Vitamin C 100mg,04-9769,Example Healthcare Ltd,B56339,9970810058297,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Paracetamol 500mg,04-8998,Example Laboratories Ltd,B78704,1579188535448,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Zinc 20mg,04-4714,Example Laboratories Ltd,B79716,6854620619194,genuine_like,Synthetic demonstration record with internally consistent formatting.
+DEMO Zinc 20mg,A11-12X,Example Healthcare Ltd,B36884,3479597555093,suspicious,Synthetic demonstration record; injected issue: bad_nafdac.
